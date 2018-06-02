@@ -1,0 +1,76 @@
+from django.shortcuts import render
+
+# Create your views here.
+from django.http import HttpResponse, JsonResponse
+from django.views.decorators.csrf import csrf_exempt
+from django.core.cache import cache
+import json
+import datetime
+from apiclient.discovery import build
+
+import gensim
+
+from gensim.models.keyedvectors import KeyedVectors
+
+#cache
+model_cache_key = 'model_cache' 
+# this key is used to `set` and `get` 
+# your trained model from the cache
+
+model = cache.get(model_cache_key) # get model from cache
+
+
+if model is None:
+    # your model isn't in the cache
+    # so `set` it
+    #model = Word2Vec.load(fname) # load model
+    #cache.set(model_cache_key, model, None) # save in the cache
+     # in above line, None is the timeout parameter. It means cache forever
+
+
+#for inital stat
+def keyboard(request):
+        return JsonResponse({
+        'type' : 'text'})
+
+
+#answer 
+@csrf_exempt
+def answer(request):
+    
+    json_str = ((request.body).decode('utf-8'))
+    return_json_str = json.loads(json_str)
+    return_str = return_json_str['content']
+    
+    return JsonResponse({
+        #if return_str=="이상근":
+        #    'message': {
+        #        'text': "상근찡",
+        #        'photo': {
+        #            'url':"http://image.edaily.co.kr/images/photo/files/NP/S/2017/09/PS17092400092.jpg",
+        #            'width':640,
+        #            'height':480
+        #        },
+        #    }, 
+        #    'keyboard': {
+        #        'type': 'text'
+        #    }
+        #else: 
+	
+        'message': {
+	   'text': youtube_search(return_str,1)
+	   
+           
+        },
+        'keyboard': {
+            'type': 'text'
+        }
+    })
+
+def youtube_search(q, max_results):
+    youtube = build("youtube", "v3", developerKey= "AIzaSyBw1WcdJJC_YzCbv6jqfzCTc1ecaIemrNE")
+    search_response = youtube.search().list(q=q, part="id,snippet",maxResults=max_results).execute()
+    for search_result in search_response.get("items", []):
+        if search_result["id"]["kind"] == "youtube#video":
+            return "https://www.youtube.com/watch?v="+search_result["id"]["videoId"]
+# Create your views here.
