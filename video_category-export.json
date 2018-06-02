@@ -1,0 +1,2788 @@
+[
+  {
+    "query": "fitness<>\ud53c\ud2b8\ub2c8\uc2a4<>ifpa pro<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 1, 
+    "pid": 0, 
+    "id": 1, 
+    "name": "Top/fitness"
+  }, 
+  {
+    "query": "stretching warm up<>\uc2a4\ud2b8\ub808\uce6d \uc900\ube44\uc6b4\ub3d9<>stretches<>\ube14\ub85c\uadf8\uc5d0 \uc624\uc2dc\uba74 \ub354 \ub9ce\uc740", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 2, 
+    "name": "Top/fitness/stretch & warm up"
+  }, 
+  {
+    "query": "fitness chest<>\ud53c\ud2b8\ub2c8\uc2a4 \uac00\uc2b4<>workout<>\uc11c\ud0b7\ud2b8\ub808\uc774\ub2dd", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 3, 
+    "name": "Top/fitness/chest"
+  }, 
+  {
+    "query": "bench press<>\ubca4\uce58\ud504\ub808\uc2a4<>benching<>\uc288\ud37c\uc138\ud2b8", 
+    "level": 3, 
+    "pid": 3, 
+    "id": 4, 
+    "name": "Top/fitness/chest/bench press"
+  }, 
+  {
+    "query": "dumbbell bench press<>\ub364\ubca8 \ubca4\uce58\ud504\ub808\uc2a4<>strength camp ecoach<>190kg", 
+    "level": 4, 
+    "pid": 4, 
+    "id": 5, 
+    "name": "Top/fitness/chest/bench press/dumbbell"
+  }, 
+  {
+    "query": "barbell bench press<>\ubc14\ubca8 \ubca4\uce58\ud504\ub808\uc2a4<>lateral pulldown<>\ud718\ud2b8\ub2c8\uc2a4fm \ube14\ub85c\uadf8\uc5d0", 
+    "level": 4, 
+    "pid": 4, 
+    "id": 6, 
+    "name": "Top/fitness/chest/bench press/barbell"
+  }, 
+  {
+    "query": "machine bench press<>\uba38\uc2e0 \ubca4\uce58\ud504\ub808\uc2a4<>our free weekly newsletter<>\ud6c8\ub828\uc785\ub2c8\ub2e4", 
+    "level": 4, 
+    "pid": 4, 
+    "id": 7, 
+    "name": "Top/fitness/chest/bench press/machine"
+  }, 
+  {
+    "query": "incline bench press<>\uc778\ud074\ub77c\uc778 \ubca4\uce58\ud504\ub808\uc2a4<>program at httpcoredomination<>5set 3", 
+    "level": 4, 
+    "pid": 4, 
+    "id": 8, 
+    "name": "Top/fitness/chest/bench press/incline"
+  }, 
+  {
+    "query": "incline dumbbell bench press<>\uc778\ud074\ub77c\uc778 \ub364\ubca8 \ubca4\uce58\ud504\ub808\uc2a4<>leroy walker<>\uc815\ubd09\uae38\uc120\uc218", 
+    "level": 5, 
+    "pid": 8, 
+    "id": 9, 
+    "name": "Top/fitness/chest/bench press/incline/dumbbell"
+  }, 
+  {
+    "query": "incline barbell bench press<>\uc778\ud074\ub77c\uc778 \ubc14\ubca8 \ubca4\uce58\ud504\ub808\uc2a4<>strength camp ecoach<>\uc2a4\ud154\ub860\ucf54\uce58", 
+    "level": 5, 
+    "pid": 8, 
+    "id": 10, 
+    "name": "Top/fitness/chest/bench press/incline/barbell"
+  }, 
+  {
+    "query": "fitness fly<>\ud53c\ud2b8\ub2c8\uc2a4 \ud50c\ub77c\uc774<>ifpa pro<>\uc6b4\ub3d9 \uc601\uc0c1\uc785\ub2c8\ub2e4", 
+    "level": 3, 
+    "pid": 3, 
+    "id": 11, 
+    "name": "Top/fitness/chest/fly"
+  }, 
+  {
+    "query": "incline fly<>\uc778\ud074\ub77c\uc778 \ud50c\ub77c\uc774<>flies<>\ub0a8\ud5ec\uc2a4", 
+    "level": 4, 
+    "pid": 11, 
+    "id": 12, 
+    "name": "Top/fitness/chest/fly/incline"
+  }, 
+  {
+    "query": "machine fly<>\uba38\uc2e0 \ud50c\ub77c\uc774<>calf block<>\ud648\uc9d0 \uc774\uc2b9\uc724\uc758", 
+    "level": 4, 
+    "pid": 11, 
+    "id": 13, 
+    "name": "Top/fitness/chest/fly/machine"
+  }, 
+  {
+    "query": " cable cross over<>\ucf00\uc774\ube14 \ud06c\ub85c\uc2a4\uc624\ubc84<>decline<>badakumile", 
+    "level": 3, 
+    "pid": 3, 
+    "id": 14, 
+    "name": "Top/fitness/chest/cable cross over"
+  }, 
+  {
+    "query": "fitness dips<>\ud53c\ud2b8\ub2c8\uc2a4 \ub525\uc2a4<>ifpa pro<>150 x", 
+    "level": 3, 
+    "pid": 3, 
+    "id": 15, 
+    "name": "Top/fitness/chest/dips"
+  }, 
+  {
+    "query": " push up<>\ud478\uc26c\uc5c5 \ud314\uad7d\ud600\ud3b4\uae30<>\uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uccb4\uc721\ud68c\uc640 mom\uc774<>\uc6b4\ub3d9\ud558\ub7ec gohome", 
+    "level": 3, 
+    "pid": 3, 
+    "id": 16, 
+    "name": "Top/fitness/chest/push up"
+  }, 
+  {
+    "query": "fitness shoulder<>\ud53c\ud2b8\ub2c8\uc2a4 \uc5b4\uae68<>side delt<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 17, 
+    "name": "Top/fitness/shoulder"
+  }, 
+  {
+    "query": "shoulder press<>\uc204\ub354\ud504\ub808\uc2a4<>httpgeni<>\u3161", 
+    "level": 3, 
+    "pid": 17, 
+    "id": 18, 
+    "name": "Top/fitness/shoulder/press"
+  }, 
+  {
+    "query": "barbell shoulder press<>\ubc14\ubca8 \uc204\ub354\ud504\ub808\uc2a4<>lateral pulldown<>\uc5d0\uc774\ud2f0\ud3ec", 
+    "level": 4, 
+    "pid": 18, 
+    "id": 19, 
+    "name": "Top/fitness/shoulder/press/barbell"
+  }, 
+  {
+    "query": "dumbbell shoulder press<>\ub364\ubca8 \uc204\ub354\ud504\ub808\uc2a4<>dbs<>\uc0dd\ud65c\uc2a4\ud3ec\uce20 \uc9c0\ub3c4\uc0ac", 
+    "level": 4, 
+    "pid": 18, 
+    "id": 20, 
+    "name": "Top/fitness/shoulder/press/dumbbell"
+  }, 
+  {
+    "query": " lateral raise<>\ub808\ud130\ub7f4 \ub808\uc774\uc988<>side laterals<>\ud6d5\ucf54\ub9ac\uc544", 
+    "level": 3, 
+    "pid": 17, 
+    "id": 21, 
+    "name": "Top/fitness/shoulder/lateral raise"
+  }, 
+  {
+    "query": " front dumbbell raise<>\ud504\ub860\ud2b8 \ub364\ubca8 \ub808\uc774\uc988<>dumbell<>\uc724\ud0dc\uc2dd \ud2b8\ub808\uc774\ub108 \uc6b4\ub3d9\uc601\uc0c1", 
+    "level": 3, 
+    "pid": 17, 
+    "id": 22, 
+    "name": "Top/fitness/shoulder/front dumbbell raise"
+  }, 
+  {
+    "query": "shoulder shrugs<>\uc204\ub354 \uc288\ub7ec\uadf8<>be taken as<>\uc6b4\ub3d9 \uc601\uc0c1\uacfc", 
+    "level": 3, 
+    "pid": 17, 
+    "id": 23, 
+    "name": "Top/fitness/shoulder/shrugs"
+  }, 
+  {
+    "query": "shoulder rotation<>\uc204\ub354 \ub85c\ud14c\uc774\uc158<>laterals<>\ubc34\ub4dc\ub97c \uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 17, 
+    "id": 24, 
+    "name": "Top/fitness/shoulder/rotation"
+  }, 
+  {
+    "query": "internal rotation<>\uc778\ud130\ub110 \ub85c\ud14c\uc774\uc158<>abduction<>\ud0c4\ud0c4\ud558\uac8c", 
+    "level": 4, 
+    "pid": 24, 
+    "id": 25, 
+    "name": "Top/fitness/shoulder/rotation/internal"
+  }, 
+  {
+    "query": "external rotation<>\uc775\uc2a4\ud130\ub110 \ub85c\ud14c\uc774\uc158<>mobilization<>\ub77c\uc789", 
+    "level": 4, 
+    "pid": 24, 
+    "id": 26, 
+    "name": "Top/fitness/shoulder/rotation/external"
+  }, 
+  {
+    "query": "fitness back<>\ud53c\ud2b8\ub2c8\uc2a4 \ub4f1<>workout<>150 x", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 27, 
+    "name": "Top/fitness/back"
+  }, 
+  {
+    "query": " chin up<>\uce5c \uc5c5<>hannibal<>\uc774\ubc88\uc5d4", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 28, 
+    "name": "Top/fitness/back/chin up"
+  }, 
+  {
+    "query": " lat pull down<>\ub7ab \ud480 \ub2e4\uc6b4<>lat pulldown<>dorian yates", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 29, 
+    "name": "Top/fitness/back/lat pull down"
+  }, 
+  {
+    "query": " straight arm pulldown<>\uc2a4\ud2b8\ub808\uc774\ud2b8 \uc554 \ud480\ub2e4\uc6b4<>lat pulldown<>comdeslun\u2737\u2737\ub2e5\uce58\uace0 \ub370\uc2a4\ub7f0", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 30, 
+    "name": "Top/fitness/back/straight arm pulldown"
+  }, 
+  {
+    "query": "fitness row<>\ud53c\ud2b8\ub2c8\uc2a4 \ub85c\uc6b0<>face pull<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 31, 
+    "name": "Top/fitness/back/row"
+  }, 
+  {
+    "query": "one arm row<>\uc6d0 \uc554 \ub85c\uc6b0<>\uccb4\uc131\ubd84 \uccb4\uc9c0\ubc29<>\uc6d0\uc554", 
+    "level": 4, 
+    "pid": 31, 
+    "id": 32, 
+    "name": "Top/fitness/back/row/one arm"
+  }, 
+  {
+    "query": "seated pulley row<>\uc2dc\ud2f0\ub4dc \ud480\ub9ac \ub85c\uc6b0<>please like comment<>\ubca4\ud2b8 \uc624\ubc84", 
+    "level": 4, 
+    "pid": 31, 
+    "id": 33, 
+    "name": "Top/fitness/back/row/seated pulley"
+  }, 
+  {
+    "query": "standing pulley row<>\uc2a4\ud0e0\ub529 \ud480\ub9ac \ub85c\uc6b0<>high pulley<>\uc774\uae30\uc218", 
+    "level": 4, 
+    "pid": 31, 
+    "id": 34, 
+    "name": "Top/fitness/back/row/standing pulley"
+  }, 
+  {
+    "query": "bent over row<>\ubc34\ud2b8 \uc624\ubc84 \ub85c\uc6b0<>follow me click<>\uc6d0\uc554", 
+    "level": 4, 
+    "pid": 31, 
+    "id": 35, 
+    "name": "Top/fitness/back/row/bent over"
+  }, 
+  {
+    "query": " barbell pullover<>\ubc14\ubca8 \ud480\uc624\ubc84<>zeigt<>\uc2a4\ud3ec\uce20\uc9c0\ub3c4\uc0ac \ubcf4\ub514\ube4c\ub529", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 36, 
+    "name": "Top/fitness/back/barbell pullover"
+  }, 
+  {
+    "query": " good morning barbell<>\uad7f\ubaa8\ub2dd \ubc14\ubca8<>goodmorning<>\ubca4\ud2b8\uc624\ubc84", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 37, 
+    "name": "Top/fitness/back/good morning barbell"
+  }, 
+  {
+    "query": "back extension<>\ubc31 \uc775\uc2a4\ud150\uc158<>\uc12d\ucde8\u3000\ubc29\ubc95\uc774 \uc911\uc694httpblog<>anncontact www", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 38, 
+    "name": "Top/fitness/back/extension"
+  }, 
+  {
+    "query": "deadlift<>\ub370\ub4dc\ub9ac\ud504\ud2b8<>dead lift<>200kg x", 
+    "level": 3, 
+    "pid": 27, 
+    "id": 39, 
+    "name": "Top/fitness/back/deadlift"
+  }, 
+  {
+    "query": "straight leg deadlift<>\uc2a4\ud2b8\ub808\uc774\ud2b8 \ub808\uadf8 \ub370\ub4dc\ub9ac\ud504\ud2b8<>\uc6b4\ub3d9\uc774 \uc88b\ub098\uc694httpblog<>\uc9d1\uc5d0\uc11c \ud558\ub294 \uc6b4\ub3d9", 
+    "level": 4, 
+    "pid": 39, 
+    "id": 40, 
+    "name": "Top/fitness/back/deadlift/straight leg"
+  }, 
+  {
+    "query": "barbell deadlift<>\ubc14\ubca8 \ub370\ub4dc\ub9ac\ud504\ud2b8<>strength camp ecoach<>\uad6c\uc138\uacbd\uc758 \ub450\uadfc\ub450\uadfc", 
+    "level": 4, 
+    "pid": 39, 
+    "id": 41, 
+    "name": "Top/fitness/back/deadlift/barbell"
+  }, 
+  {
+    "query": "rumanian deadlift<>\ub8e8\ub9c8\ub2c8\uc548 \ub370\ub4dc\ub9ac\ud504\ud2b8<>rdl<>gle7ze5q \ud648\ud2b8\ub808\uc774\ub2dd", 
+    "level": 4, 
+    "pid": 39, 
+    "id": 42, 
+    "name": "Top/fitness/back/deadlift/rumanian"
+  }, 
+  {
+    "query": "fitness arm<>\ud53c\ud2b8\ub2c8\uc2a4 \ud314<>terry crews<>\ub9e4\uc77c\uc544\uce68 \ubc30\ub2ec\ub418\ub294", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 43, 
+    "name": "Top/fitness/arm"
+  }, 
+  {
+    "query": "fitness biceps<>\ud53c\ud2b8\ub2c8\uc2a4 \uc774\ub450\uadfc<>comsearsfollow us on twitter<>\ud64d\ubcf4\uc601\uc0c1", 
+    "level": 3, 
+    "pid": 43, 
+    "id": 44, 
+    "name": "Top/fitness/arm/biceps"
+  }, 
+  {
+    "query": "biceps curl<>\uc774\ub450\uadfc \uceec<>oefeningen \u202ahttpbit<>\ud2b8\ub77c\uc774\uc149\uc2a4", 
+    "level": 4, 
+    "pid": 44, 
+    "id": 45, 
+    "name": "Top/fitness/arm/biceps/curl"
+  }, 
+  {
+    "query": "barbell curl<>\ubc14\ubca8 \uceec<>oefeningen \u202ahttpbit<>\uc774\uae30\uc218", 
+    "level": 5, 
+    "pid": 45, 
+    "id": 46, 
+    "name": "Top/fitness/arm/biceps/curl/barbell"
+  }, 
+  {
+    "query": "dumbbell curl<>\ub364\ubca8 \uceec<>oefeningen \u202ahttpbit<>\ud6c4\uba74\uc0bc\uac01\uadfc", 
+    "level": 5, 
+    "pid": 45, 
+    "id": 47, 
+    "name": "Top/fitness/arm/biceps/curl/dumbbell"
+  }, 
+  {
+    "query": "incline curl dumbbell<>\uc778\ud074\ub77c\uc778 \uceec \ub364\ubca8<>oefeningen \u202ahttpbit<>\ub0a8\ud5ec\uc2a4", 
+    "level": 6, 
+    "pid": 47, 
+    "id": 48, 
+    "name": "Top/fitness/arm/biceps/curl/dumbbell/incline"
+  }, 
+  {
+    "query": "hammer dumbbell curl<>\ud574\uba38 \ub364\ubca8 \uceec<>dumb bell<>\uc724\ud0dc\uc2dd \ud2b8\ub808\uc774\ub108 \uc6b4\ub3d9\uc601\uc0c1", 
+    "level": 6, 
+    "pid": 47, 
+    "id": 49, 
+    "name": "Top/fitness/arm/biceps/curl/dumbbell/hammer"
+  }, 
+  {
+    "query": "concentrated dumbbell curl<>\ucee8\uc13c\ud2b8\ub808\uc774\ud2f0\ub4dc \ub364\ubca8 \uceec<>dumbell<>\ud6c4\uba74\uc0bc\uac01\uadfc", 
+    "level": 6, 
+    "pid": 47, 
+    "id": 50, 
+    "name": "Top/fitness/arm/biceps/curl/dumbbell/concentrated"
+  }, 
+  {
+    "query": "fitness triceps<>\ud53c\ud2b8\ub2c8\uc2a4 \uc0bc\ub450\uadfc<>chulsoon<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 3, 
+    "pid": 43, 
+    "id": 51, 
+    "name": "Top/fitness/arm/triceps"
+  }, 
+  {
+    "query": "close grip bench press<>\ud074\ub85c\uc988 \uadf8\ub9bd \ubca4\uce58 \ud504\ub808\uc2a4<>505<>\ucf00\uc774\ube14\ud06c\ub85c\uc2a4\uc624\ubc84", 
+    "level": 4, 
+    "pid": 51, 
+    "id": 52, 
+    "name": "Top/fitness/arm/triceps/close grip bench press"
+  }, 
+  {
+    "query": "triceps kickback<>\uc0bc\ub450\uadfc \ud0a5\ubc31<>tricep pushdown<>\ud2b8\ub77c\uc774\uc149\uc2a4", 
+    "level": 4, 
+    "pid": 51, 
+    "id": 53, 
+    "name": "Top/fitness/arm/triceps/kickback"
+  }, 
+  {
+    "query": "triceps push down<>\uc0bc\ub450\uadfc \ud478\uc26c \ub2e4\uc6b4<>tricep push down<>\ud2b8\ub77c\uc774\uc149", 
+    "level": 4, 
+    "pid": 51, 
+    "id": 54, 
+    "name": "Top/fitness/arm/triceps/push down"
+  }, 
+  {
+    "query": "triceps  dip<>\uc0bc\ub450\uadfc \ub525<>pushdown<>3\ub300\uc6b4\ub3d9", 
+    "level": 4, 
+    "pid": 51, 
+    "id": 55, 
+    "name": "Top/fitness/arm/triceps/dip"
+  }, 
+  {
+    "query": "triceps bar dip<>\uc0bc\ub450\uadfc \ubc14 \ub525<>pushdown<>2012\ub144 6\uc6d4", 
+    "level": 5, 
+    "pid": 55, 
+    "id": 56, 
+    "name": "Top/fitness/arm/triceps/dip/bar"
+  }, 
+  {
+    "query": "triceps bench dip<>\uc0bc\ub450\uadfc \ubca4\uce58 \ub525<>tricep pushdowns<>\ud2b8\ub77c\uc774\uc149\uc2a4", 
+    "level": 5, 
+    "pid": 55, 
+    "id": 57, 
+    "name": "Top/fitness/arm/triceps/dip/bench"
+  }, 
+  {
+    "query": "triceps extension<>\uc0bc\ub450\uadfc \uc775\uc2a4\ud150\uc158<>\ub370\uc2a4\ub7f0 \ud398\uc774\uc2a4\ubd81 httpswww<>\ud2b8\ub77c\uc774\uc149\uc2a4", 
+    "level": 4, 
+    "pid": 51, 
+    "id": 58, 
+    "name": "Top/fitness/arm/triceps/extension"
+  }, 
+  {
+    "query": "triceps dumbbell extension<>\uc0bc\ub450\uadfc \ub364\ubca8 \uc775\uc2a4\ud150\uc158<>db<>\ud2b8\ub77c\uc774\uc149\uc2a4", 
+    "level": 5, 
+    "pid": 58, 
+    "id": 59, 
+    "name": "Top/fitness/arm/triceps/extension/dumbbell"
+  }, 
+  {
+    "query": "triceps barbell extension<>\uc0bc\ub450\uadfc \ubc14\ubca8 \uc775\uc2a4\ud150\uc158<>tricep push down<>\ud2b8\ub77c\uc774\uc149\uc2a4", 
+    "level": 5, 
+    "pid": 58, 
+    "id": 60, 
+    "name": "Top/fitness/arm/triceps/extension/barbell"
+  }, 
+  {
+    "query": "fitness leg<>\ud53c\ud2b8\ub2c8\uc2a4 \ub2e4\ub9ac<>workout<>\ud504\ub85c\uadf8\ub7a8\uc740", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 61, 
+    "name": "Top/fitness/leg"
+  }, 
+  {
+    "query": "fitness squat<>\ud53c\ud2b8\ub2c8\uc2a4 \uc2a4\ucffc\ud2b8<>workout<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 62, 
+    "name": "Top/fitness/leg/squat"
+  }, 
+  {
+    "query": "back squat<>\ubc31 \uc2a4\ucffc\ud2b8<>romanian dead lift<>5set5", 
+    "level": 4, 
+    "pid": 62, 
+    "id": 63, 
+    "name": "Top/fitness/leg/squat/back"
+  }, 
+  {
+    "query": "barbell squat<>\ubc14\ubca8 \uc2a4\ucffc\ud2b8<>romanian dead lift<>\u3161", 
+    "level": 4, 
+    "pid": 62, 
+    "id": 64, 
+    "name": "Top/fitness/leg/squat/barbell"
+  }, 
+  {
+    "query": "front barbell squat<>\ud504\ub860\ud2b8 \ubc14\ubca8 \uc2a4\ucffc\ud2b8<>romanian dead lift<>\u3161", 
+    "level": 5, 
+    "pid": 64, 
+    "id": 65, 
+    "name": "Top/fitness/leg/squat/barbell/front"
+  }, 
+  {
+    "query": "barbell hack squat<>\ubc14\ubca8 \ud575 \uc2a4\ucffc\ud2b8<>blood flow restriction training<>\ud5c8\ub9ac\uc6b4\ub3d9", 
+    "level": 5, 
+    "pid": 64, 
+    "id": 66, 
+    "name": "Top/fitness/leg/squat/barbell/hack"
+  }, 
+  {
+    "query": "split squat<>\uc2a4\ud50c\ub9bf \uc2a4\ucffc\ud2b8<>romanian dead lift<>\uc9d1\uc5d0\uc11c \ud558\ub294 \uc6b4\ub3d9", 
+    "level": 4, 
+    "pid": 62, 
+    "id": 67, 
+    "name": "Top/fitness/leg/squat/split"
+  }, 
+  {
+    "query": "dumbbell split squat<>\ub364\ubca8 \uc2a4\ud50c\ub9bf \uc2a4\ucffc\ud2b8<>db<>\uc6b4\ub3d9\ud558\uba74\uc11c", 
+    "level": 5, 
+    "pid": 67, 
+    "id": 68, 
+    "name": "Top/fitness/leg/squat/split/dumbbell"
+  }, 
+  {
+    "query": "overhead split squat<>\uc624\ubc84\ud5e4\ub4dc \uc2a4\ud50c\ub9bf \uc2a4\ucffc\ud2b8<>iso hold<>\uc9d1\uc5d0\uc11c \ud558\ub294 \uc6b4\ub3d9", 
+    "level": 5, 
+    "pid": 67, 
+    "id": 69, 
+    "name": "Top/fitness/leg/squat/split/overhead"
+  }, 
+  {
+    "query": "barbell split squat<>\ubc14\ubca8 \uc2a4\ud50c\ub9bf \uc2a4\ucffc\ud2b8<>strength camp ecoach<>\uace0\ubc18\ubcf5", 
+    "level": 5, 
+    "pid": 67, 
+    "id": 70, 
+    "name": "Top/fitness/leg/squat/split/barbell"
+  }, 
+  {
+    "query": "dumbbell split squat<>\ub364\ubca8 \uc2a4\ud50c\ub9bf \uc2a4\ucffc\ud2b8<>db<>\uc6b4\ub3d9\ud558\uba74\uc11c", 
+    "level": 5, 
+    "pid": 67, 
+    "id": 71, 
+    "name": "Top/fitness/leg/squat/split/dumbbell"
+  }, 
+  {
+    "query": "fitness lunge<>\ud53c\ud2b8\ub2c8\uc2a4 \ub7f0\uc9c0<>httphasfit<>1\ud654", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 72, 
+    "name": "Top/fitness/leg/lunge"
+  }, 
+  {
+    "query": "barbell lunge<>\ubc14\ubca8 \ub7f0\uc9c0<>twitter httpfull<>\uc5ec\uc790\uc6b4\ub3d9\ubc95", 
+    "level": 4, 
+    "pid": 72, 
+    "id": 73, 
+    "name": "Top/fitness/leg/lunge/barbell"
+  }, 
+  {
+    "query": "overhead barbell lunge<>\uc624\ubc84\ud5e4\ub4dc \ubc14\ubca8 \ub7f0\uc9c0<>comchefbuffmy female workout channel<>\uc26c\uc6b4", 
+    "level": 5, 
+    "pid": 73, 
+    "id": 74, 
+    "name": "Top/fitness/leg/lunge/barbell/overhead"
+  }, 
+  {
+    "query": "forward lunge<>\ud3ec\uc6cc\ub4dc \ub7f0\uc9c0<>more details httpexercisesforinjuries<>\ud0c0\uc6d4", 
+    "level": 4, 
+    "pid": 72, 
+    "id": 75, 
+    "name": "Top/fitness/leg/lunge/forward"
+  }, 
+  {
+    "query": "lateral lunge<>\ub808\ud130\ub7f4 \ub7f0\uc9c0<>more details httpexercisesforinjuries<>150 x", 
+    "level": 4, 
+    "pid": 72, 
+    "id": 76, 
+    "name": "Top/fitness/leg/lunge/lateral "
+  }, 
+  {
+    "query": " leg press<>\ub808\uadf8 \ud504\ub808\uc2a4<>plate loaded<>50kg x", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 77, 
+    "name": "Top/fitness/leg/leg press"
+  }, 
+  {
+    "query": " leg extension<>\ub808\uadf8 \uc775\uc2a4\ud150\uc158<>nel<>\uc9d0\uc2a4\ud2f1\uc744 \uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 78, 
+    "name": "Top/fitness/leg/leg extension"
+  }, 
+  {
+    "query": " leg curl<>\ub808\uadf8 \uceec<>\uc6b4\ub3d9\uc774 \uc88b\ub098\uc694httpblog<>\ub0a8\uccad\uc8fc\uc2e0\ud611 \ud5ec\uc2a4\ud074\ub7fd", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 79, 
+    "name": "Top/fitness/leg/leg curl"
+  }, 
+  {
+    "query": "fitness hip<>\ud53c\ud2b8\ub2c8\uc2a4 \uc5c9\ub369\uc774<>hills<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 80, 
+    "name": "Top/fitness/leg/hip"
+  }, 
+  {
+    "query": " calf raise<>\uce74\ud504 \ub808\uc774\uc988<>gastrocnemius<>\uc2a4\ucf70\ud2b8", 
+    "level": 3, 
+    "pid": 61, 
+    "id": 81, 
+    "name": "Top/fitness/leg/calf raise"
+  }, 
+  {
+    "query": "fitness abdomen<>\ud53c\ud2b8\ub2c8\uc2a4 \ubcf5\ubd80<>abdominales<>\ubcf4\uac15\uc6b4\ub3d9", 
+    "level": 2, 
+    "pid": 1, 
+    "id": 82, 
+    "name": "Top/fitness/abdomen"
+  }, 
+  {
+    "query": " sit up<>\uc717 \ubab8 \uc77c\uc73c\ud0a4\uae30<>glp5clk2personal training<>\ub808\ubca8 10 \ud074\ub85c\uc9d5", 
+    "level": 3, 
+    "pid": 82, 
+    "id": 83, 
+    "name": "Top/fitness/abdomen/sit up"
+  }, 
+  {
+    "query": "fitness crunch<>\ud53c\ud2b8\ub2c8\uc2a4 \ud06c\ub7f0\uce58<>comsearsfollow us on twitter<>\ud648\ud2b8\ub808\uc774\ub2dd \uad50\uc721\uc601\uc0c1 httpsyoutu", 
+    "level": 3, 
+    "pid": 82, 
+    "id": 84, 
+    "name": "Top/fitness/abdomen/crunch"
+  }, 
+  {
+    "query": "reverse crunch<>\ub9ac\ubc84\uc2a4 \ud06c\ub7f0\uce58<>jack knife<>\ub0a8\uccad\uc8fc\uc2e0\ud611 \ud5ec\uc2a4\ud074\ub7fd", 
+    "level": 4, 
+    "pid": 84, 
+    "id": 85, 
+    "name": "Top/fitness/abdomen/crunch/reverse"
+  }, 
+  {
+    "query": "figure 4 crunch<>\ud53c\uaca8 4 \ud06c\ub7f0\uce58<>bicycle<>5", 
+    "level": 4, 
+    "pid": 84, 
+    "id": 86, 
+    "name": "Top/fitness/abdomen/crunch/figure 4"
+  }, 
+  {
+    "query": "ball crunch<>\ubcfc \ud06c\ub7f0\uce58<>jack knife<>\ud0c0\uc6d4", 
+    "level": 4, 
+    "pid": 0, 
+    "id": 87, 
+    "name": "Top/fitness/abdomen/ball/crunch"
+  }, 
+  {
+    "query": "ball twist<>\ubcfc \ud2b8\uc704\uc2a4\ud2b8<>realness with<>\ubc30\uc6cc\ubcf4\ub3c4\ub85d \ud558\uc790", 
+    "level": 4, 
+    "pid": 0, 
+    "id": 88, 
+    "name": "Top/fitness/abdomen/ball/twist"
+  }, 
+  {
+    "query": "ball press up<>\ubcfc \ud504\ub808\uc2a4 \uc5c5<>at intosport<>\ub354\ube14", 
+    "level": 4, 
+    "pid": 0, 
+    "id": 89, 
+    "name": "Top/fitness/abdomen/ball/press up"
+  }, 
+  {
+    "query": "ball jackknife<>\ubcfc \uc7ad\ub098\uc774\ud504<>aqua<>\ucc28", 
+    "level": 4, 
+    "pid": 0, 
+    "id": 90, 
+    "name": "Top/fitness/abdomen/ball/jackknife"
+  }, 
+  {
+    "query": "ball back extension<>\ubcfc \ubc31 \uc775\uc2a4\ud150\uc158<>\uc12d\ucde8\u3000\ubc29\ubc95\uc774 \uc911\uc694httpblog<>\ub354\ube14", 
+    "level": 4, 
+    "pid": 0, 
+    "id": 91, 
+    "name": "Top/fitness/abdomen/ball/back extension"
+  }, 
+  {
+    "query": "fitness plank<>\ud53c\ud2b8\ub2c8\uc2a4 \ud50c\ub7ad\ud06c<>desde<>\ud3fc\ub864\ub7ec\ub97c \uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 82, 
+    "id": 92, 
+    "name": "Top/fitness/abdomen/plank"
+  }, 
+  {
+    "query": "front plank<>\ud504\ub7f0\ud2b8 \ud50c\ub7ad\ud06c<>9090<>\ud5c8\ub9ac\uc6b4\ub3d9", 
+    "level": 4, 
+    "pid": 92, 
+    "id": 93, 
+    "name": "Top/fitness/abdomen/plank/front"
+  }, 
+  {
+    "query": "side plank<>\uc0ac\uc774\ub4dc \ud50c\ub7ad\ud06c<>ql<>1\uc8fc\ucc28", 
+    "level": 4, 
+    "pid": 92, 
+    "id": 94, 
+    "name": "Top/fitness/abdomen/plank/side"
+  }, 
+  {
+    "query": "fitness leg raise<>\ud53c\ud2b8\ub2c8\uc2a4 \ub808\uadf8\ub808\uc774\uc988<>\uc790\uc138\ud55c \uc6b4\ub3d9\uacfc\uc815<>\ud589\uc0ac", 
+    "level": 3, 
+    "pid": 82, 
+    "id": 95, 
+    "name": "Top/fitness/abdomen/leg raise"
+  }, 
+  {
+    "query": "v leg raise<>\ube0c\uc774 \ub808\uadf8 \ub808\uc774\uc988<>plie<>\uc774\uae30\uc218", 
+    "level": 4, 
+    "pid": 95, 
+    "id": 96, 
+    "name": "Top/fitness/abdomen/leg raise/v"
+  }, 
+  {
+    "query": " side bend<>\uc0ac\uc774\ub4dc \ubc34\ub4dc<>figure 8<>\ud754\ub4e4\ub9ac\uc9c0 \uc54a\ub3c4\ub85d", 
+    "level": 3, 
+    "pid": 82, 
+    "id": 97, 
+    "name": "Top/fitness/abdomen/side bend"
+  }, 
+  {
+    "query": "roman chair side bend<>\ub85c\ub9cc \uccb4\uc5b4 \uc0ac\uc774\ub4dc \ubc34\ub4dc<>oblique<>\ud754\ub4e4\ub9ac\uc9c0 \uc54a\ub3c4\ub85d", 
+    "level": 4, 
+    "pid": 97, 
+    "id": 98, 
+    "name": "Top/fitness/abdomen/side bend/roman chair"
+  }, 
+  {
+    "query": "jiujitsu<>\uc8fc\uc9d3\uc218<><>", 
+    "level": 1, 
+    "pid": 0, 
+    "id": 99, 
+    "name": "Top/jiujitsu"
+  }, 
+  {
+    "query": "jiujitsu back<>\uc8fc\uc9d3\uc218 \ubc31 <>dafirmabjj<>\ub2e4\ub9ac\ub97c", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 100, 
+    "name": "Top/jiujitsu/back"
+  }, 
+  {
+    "query": "jiujitsu back escapes<>\uc8fc\uc9d3\uc218 \ubc31 \uc774\uc2a4\ucf00\uc785<>great techniques news etc<>\ub2e4\ub9ac\ub97c", 
+    "level": 3, 
+    "pid": 100, 
+    "id": 101, 
+    "name": "Top/jiujitsu/back/escapes"
+  }, 
+  {
+    "query": "jiujitsu back submissions<>\uc8fc\uc9d3\uc218 \ubc31 \uc11c\ube0c\ubbf8\uc158<>comkncs9z4flavio almeida<>\ub2e4\ub9ac\ub97c", 
+    "level": 3, 
+    "pid": 100, 
+    "id": 102, 
+    "name": "Top/jiujitsu/back/submissions"
+  }, 
+  {
+    "query": "jiujitsu back transitions<>\uc8fc\uc9d3\uc218 \ubc31 \ud2b8\ub79c\uc9c0\uc158<>practiced martial arts<>\ub2e4\ub9ac\ub97c", 
+    "level": 3, 
+    "pid": 100, 
+    "id": 103, 
+    "name": "Top/jiujitsu/back/transitions"
+  }, 
+  {
+    "query": "jiujitsu drills<>\uc8fc\uc9d3\uc218 \ub4dc\ub9b4<>4th dan<>\ud14c\ud06c\ub2c9", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 104, 
+    "name": "Top/jiujitsu/drills"
+  }, 
+  {
+    "query": "jiujitsu partner drills<>\uc8fc\uc9d3\uc218 \ud30c\ud2b8\ub108 \ub4dc\ub9b4<>warm up drill<>\ud14c\ud06c\ub2c9", 
+    "level": 3, 
+    "pid": 104, 
+    "id": 105, 
+    "name": "Top/jiujitsu/drills/partner drills"
+  }, 
+  {
+    "query": "jiujitsu solo drills<>\uc8fc\uc9d3\uc218 \uc194\ub85c \ub4dc\ub9b4<>stretching routine<>\ud14c\ud06c\ub2c9", 
+    "level": 3, 
+    "pid": 104, 
+    "id": 106, 
+    "name": "Top/jiujitsu/drills/solo drills"
+  }, 
+  {
+    "query": "jiujitsu takedown drills<>\uc8fc\uc9d3\uc218 \ud14c\uc774\ud06c\ub2e4\uc6b4 \ub4dc\ub9b4<>\uac00\uc9c4 \ub3c4\ubcf5jjst \uc8fc\uc9d3\uc288\ud2b8www<>\ud14c\ud06c\ub2c9", 
+    "level": 3, 
+    "pid": 104, 
+    "id": 107, 
+    "name": "Top/jiujitsu/drills/takedown drills"
+  }, 
+  {
+    "query": "jiujitsu escapes<>\uc8fc\uc9d3\uc218 \uc774\uc2a4\ucf00\uc785<>escaping<>ser", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 108, 
+    "name": "Top/jiujitsu/escapes"
+  }, 
+  {
+    "query": "jiujitsu escapes & counters<>\uc8fc\uc9d3\uc218 \uc774\uc2a4\ucf00\uc785 \uce74\uc6b4\ud130<>part 1<>\uc804\uad6d 9\uac1c", 
+    "level": 3, 
+    "pid": 108, 
+    "id": 109, 
+    "name": "Top/jiujitsu/escapes/escapes & counters"
+  }, 
+  {
+    "query": "jiujitsu submission escapes<>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158 \uc774\uc2a4\ucf00\uc785<>escaping<>ufc2", 
+    "level": 3, 
+    "pid": 108, 
+    "id": 110, 
+    "name": "Top/jiujitsu/escapes/submission escapes"
+  }, 
+  {
+    "query": "jiujitsu positional escapes<>\uc8fc\uc9d3\uc218 \ud3ec\uc9c0\uc158\ubcc4 \uc774\uc2a4\ucf00\uc785<>07<>ser", 
+    "level": 3, 
+    "pid": 108, 
+    "id": 111, 
+    "name": "Top/jiujitsu/escapes/positional escapes"
+  }, 
+  {
+    "query": "jiujitsu grip breaking<>\uc8fc\uc9d3\uc218 \uadf8\ub9bd \ube0c\ub808\uc774\ud0b9 <>all right guys<>latest news technique videos", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 112, 
+    "name": "Top/jiujitsu/grip breaking"
+  }, 
+  {
+    "query": "jiujitsu grip breaking on ground<>\uc8fc\uc9d3\uc218 \uadf8\ub9bd \ube0c\ub808\uc774\ud0b9 \uadf8\ub77c\uc6b4\ub4dc\uc5d0\uc11c<>pinned<>latest news technique videos", 
+    "level": 3, 
+    "pid": 112, 
+    "id": 113, 
+    "name": "Top/jiujitsu/grip breaking/grip breaking on ground"
+  }, 
+  {
+    "query": "jiujitsu grip breaking on standing<>\uc8fc\uc9d3\uc218 \uadf8\ub9bd \ube0c\ub808\uc774\ud0b9 \uc2a4\ud0e0\ub529\uc5d0\uc11c<>comproudly serving<>latest news technique videos", 
+    "level": 3, 
+    "pid": 112, 
+    "id": 114, 
+    "name": "Top/jiujitsu/grip breaking/grip breaking on standing"
+  }, 
+  {
+    "query": "jiujitsu guard bottom<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140<>by andre lima<>\uc774\uc6a9\ud55c", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 115, 
+    "name": "Top/jiujitsu/guard bottom"
+  }, 
+  {
+    "query": "jiujitsu guard bottom 5050 guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 5050 \uac00\ub4dc<>overunder<>\u3160", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 116, 
+    "name": "Top/jiujitsu/guard bottom/5050 guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom berimbolo<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ubca0\ub9bc\ubcf4\ub85c<>very hard<>\uacb0\uc2b9", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 117, 
+    "name": "Top/jiujitsu/guard bottom/berimbolo"
+  }, 
+  {
+    "query": "jiujitsu guard bottom butterfly guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ubc84\ud130\ud50c\ub77c\uc774 \uac00\ub4dc<>danny zeus savery<>muito", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 118, 
+    "name": "Top/jiujitsu/guard bottom/butterfly guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom open guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \uc624\ud508\uac00\ub4dc<>by andre lima<>\ud300\ub8e8\uce20", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 119, 
+    "name": "Top/jiujitsu/guard bottom/open guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom closed guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ud074\ub85c\uc988\ub4dc \uac00\ub4dc<>danny zeus savery<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 120, 
+    "name": "Top/jiujitsu/guard bottom/closed guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom de la riva<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub378\ub77c\ud788\ubc14<>danny zeus savery<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 121, 
+    "name": "Top/jiujitsu/guard bottom/de la riva  "
+  }, 
+  {
+    "query": "jiujitsu guard bottom double under<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub354\ube14 \uc5b8\ub354<>overunder<>\uc120\uc218", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 122, 
+    "name": "Top/jiujitsu/guard bottom/double under"
+  }, 
+  {
+    "query": "jiujitsu guard bottom half guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ud558\ud504\uac00\ub4dc<>by andre lima<>\ub9e4\uce58", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 123, 
+    "name": "Top/jiujitsu/guard bottom/half guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom knee cut<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub2c8 \ucef7<>small things<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 124, 
+    "name": "Top/jiujitsu/guard bottom/knee cut"
+  }, 
+  {
+    "query": "jiujitsu guard bottom knee slide<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub2c8 \uc2ac\ub77c\uc774\ub4dc<>shaughn hull shaughnhull@gmail<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 125, 
+    "name": "Top/jiujitsu/guard bottom/knee slide"
+  }, 
+  {
+    "query": "jiujitsu guard bottom knee shield<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub2c8 \uc274\ub4dc<>regain<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 126, 
+    "name": "Top/jiujitsu/guard bottom/knee shield"
+  }, 
+  {
+    "query": "jiujitsu guard bottom lasso guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub77c\uc3d8\uac00\ub4dc<>by andre lima<>", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 127, 
+    "name": "Top/jiujitsu/guard bottom/lasso guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom leg drag<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub808\uadf8 \ub4dc\ub798\uadf8<>please rate comment<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 128, 
+    "name": "Top/jiujitsu/guard bottom/leg drag"
+  }, 
+  {
+    "query": "jiujitsu guard bottom reverse de la riva<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub9ac\ubc84\uc2a4 \ub378\ub77c\ud788\ubc14<>by andre lima<>\ud0a4\uc988 \uc5b4\ub9b0\uc774", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 129, 
+    "name": "Top/jiujitsu/guard bottom/reverse de la riva"
+  }, 
+  {
+    "query": "jiujitsu guard bottom rubber guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub7ec\ubc84\uac00\ub4dc<>by andre lima<>", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 130, 
+    "name": "Top/jiujitsu/guard bottom/rubber guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom sit up guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \uc2ef\uc5c5\uac00\ub4dc<>gaurd<>", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 131, 
+    "name": "Top/jiujitsu/guard bottom/sit up guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom spider guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \uc2a4\ud30c\uc774\ub354 \uac00\ub4dc<>by andre lima<>cafe httpcafe", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 132, 
+    "name": "Top/jiujitsu/guard bottom/spider guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom submissions<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \uc11c\ube0c\ubbf8\uc158<>by andre lima<>\ubc0f", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 133, 
+    "name": "Top/jiujitsu/guard bottom/submissions"
+  }, 
+  {
+    "query": "jiujitsu guard bottom worm<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \uc6dc<>shaughn hull shaughnhull@gmail<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 134, 
+    "name": "Top/jiujitsu/guard bottom/worm"
+  }, 
+  {
+    "query": "jiujitsu guard bottom lapel guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \ub77c\ud3a0 \uac00\ub4dc<>by andre lima<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 135, 
+    "name": "Top/jiujitsu/guard bottom/lapel guard"
+  }, 
+  {
+    "query": "jiujitsu guard bottom x guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ubc14\ud140 \uc5d1\uc2a4 \uac00\ub4dc<>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 115, 
+    "id": 136, 
+    "name": "Top/jiujitsu/guard bottom/x guard "
+  }, 
+  {
+    "query": "jiujitsu guard top <>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 <>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 137, 
+    "name": "Top/jiujitsu/guard top"
+  }, 
+  {
+    "query": "jiujitsu guard top 5050 guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 5050 \uac00\ub4dc<>overunder<>\u3160", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 138, 
+    "name": "Top/jiujitsu/guard top/5050 guard"
+  }, 
+  {
+    "query": "jiujitsu guard top berimbolo<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ubca0\ub9bc\ubcf4\ub85c<>bradley hill<>\uacb0\uc2b9", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 139, 
+    "name": "Top/jiujitsu/guard top/berimbolo"
+  }, 
+  {
+    "query": "jiujitsu guard top closed guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ud074\ub85c\uc988\ub4dc \uac00\ub4dc<>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 140, 
+    "name": "Top/jiujitsu/guard top/closed guard"
+  }, 
+  {
+    "query": "jiujitsu guard top de la riva<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub378\ub77c\ud788\ubc14<>lockdown<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 141, 
+    "name": "Top/jiujitsu/guard top/de la riva  "
+  }, 
+  {
+    "query": "jiujitsu guard top double under<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub354\ube14 \uc5b8\ub354<>overunder<>\uc120\uc218", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 142, 
+    "name": "Top/jiujitsu/guard top/double under"
+  }, 
+  {
+    "query": "jiujitsu guard top half guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ud558\ud504 \uac00\ub4dc<>0\uc5d0 \ub530\ub77c<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 143, 
+    "name": "Top/jiujitsu/guard top/half guard"
+  }, 
+  {
+    "query": "jiujitsu guard top inverted guard pass<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \uc778\ubc84\ud2f0\ub4dc \uac00\ub4dc \ud328\uc2a4<>gaurd<>bsc media", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 144, 
+    "name": "Top/jiujitsu/guard top/inverted guard pass"
+  }, 
+  {
+    "query": "jiujitsu guard top knee cut<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub2c8 \ucef7<>small things<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 145, 
+    "name": "Top/jiujitsu/guard top/knee cut"
+  }, 
+  {
+    "query": "jiujitsu guard top knee slide<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub2c8 \uc2ac\ub77c\uc774\ub4dc<>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 146, 
+    "name": "Top/jiujitsu/guard top/knee slide"
+  }, 
+  {
+    "query": "jiujitsu guard top knee shield<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub2c8 \uc274\ub4dc<>regain<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 147, 
+    "name": "Top/jiujitsu/guard top/knee shield"
+  }, 
+  {
+    "query": "jiujitsu guard top lasso guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub77c\uc3d8 \uac00\ub4dc<>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 148, 
+    "name": "Top/jiujitsu/guard top/lasso guard"
+  }, 
+  {
+    "query": "jiujitsu guard top leg drag<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub808\uadf8 \ub4dc\ub798\uadf8<>leg weave<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 149, 
+    "name": "Top/jiujitsu/guard top/leg drag"
+  }, 
+  {
+    "query": "jiujitsu guard top long step<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub871 \uc2a4\ud15d<>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 150, 
+    "name": "Top/jiujitsu/guard top/long step"
+  }, 
+  {
+    "query": "jiujitsu guard top hip switch<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ud799 \uc2a4\uc704\uce58<>\ub450\ubc88\uc9f8<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 151, 
+    "name": "Top/jiujitsu/guard top/hip switch"
+  }, 
+  {
+    "query": "jiujitsu guard top open guard pass<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \uc624\ud508 \uac00\ub4dc \ud328\uc2a4<>gaurd<>\uad00\uc7a5\uc758", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 152, 
+    "name": "Top/jiujitsu/guard top/open guard pass"
+  }, 
+  {
+    "query": "jiujitsu guard top butterfly guard pass<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ubc84\ud130\ud50c\ub77c\uc774 \uac00\ub4dc \ud328\uc2a4<>regain<>bsc media", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 153, 
+    "name": "Top/jiujitsu/guard top/butterfly guard pass"
+  }, 
+  {
+    "query": "jiujitsu guard top reverse de la riva<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ub9ac\ubc84\uc2a4 \ub378\ub77c\ud788\ubc14<>gaurd<>\ud0a4\uc988 \uc5b4\ub9b0\uc774", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 154, 
+    "name": "Top/jiujitsu/guard top/reverse de la riva"
+  }, 
+  {
+    "query": "jiujitsu guard top sit up guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \uc2ef\uc5c5\uac00\ub4dc<>gaurd<>", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 155, 
+    "name": "Top/jiujitsu/guard top/sit up guard"
+  }, 
+  {
+    "query": "jiujitsu guard top spider guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \uc2a4\ud30c\uc774\ub354 \uac00\ub4dc<>gaurd<>cafe httpcafe", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 156, 
+    "name": "Top/jiujitsu/guard top/spider guard"
+  }, 
+  {
+    "query": "jiujitsu guard top submissions<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \uc11c\ube0c\ubbf8\uc158<>regain<>\ubc0f", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 157, 
+    "name": "Top/jiujitsu/guard top/submissions"
+  }, 
+  {
+    "query": "jiujitsu guard top turtle<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \ud130\ud2c0<>comebookdownloadbernardo faria<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 158, 
+    "name": "Top/jiujitsu/guard top/turtle"
+  }, 
+  {
+    "query": "jiujitsu guard top x guard<>\uc8fc\uc9d3\uc218 \uac00\ub4dc \ud0d1 \uc5d1\uc2a4 \uac00\ub4dc<>gaurd<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 137, 
+    "id": 159, 
+    "name": "Top/jiujitsu/guard top/x guard "
+  }, 
+  {
+    "query": "jiujitsu knee on belly <>\uc8fc\uc9d3\uc218 \ub2c8\uc628\ubc38\ub9ac <>he started practicing<>", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 160, 
+    "name": "Top/jiujitsu/knee on belly"
+  }, 
+  {
+    "query": "jiujitsu knee on belly escapes<>\uc8fc\uc9d3\uc218 \ub2c8\uc628\ubc38\ub9ac \uc774\uc2a4\ucf00\uc785<>comtechniques<>ser", 
+    "level": 3, 
+    "pid": 160, 
+    "id": 161, 
+    "name": "Top/jiujitsu/knee on belly/escapes"
+  }, 
+  {
+    "query": "jiujitsu knee on belly submissions<>\uc8fc\uc9d3\uc218 \ub2c8\uc628\ubc38\ub9ac \uc11c\ube0c\ubbf8\uc158<>reverse dlr<>\ubc0f", 
+    "level": 3, 
+    "pid": 160, 
+    "id": 162, 
+    "name": "Top/jiujitsu/knee on belly/submissions"
+  }, 
+  {
+    "query": "jiujitsu knee on belly transitions<>\uc8fc\uc9d3\uc218 \ub2c8\uc628\ubc38\ub9ac \ud2b8\ub79c\uc9c0\uc158<>team popovitch<>", 
+    "level": 3, 
+    "pid": 160, 
+    "id": 163, 
+    "name": "Top/jiujitsu/knee on belly/transitions"
+  }, 
+  {
+    "query": "jiujitsu mount <>\uc8fc\uc9d3\uc218 \ub9c8\uc6b4\ud2b8 <>tech demos httpsitunes<>\uc774\uc2a4\ucf00\uc774\ud504", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 164, 
+    "name": "Top/jiujitsu/mount"
+  }, 
+  {
+    "query": "jiujitsu mount controls<>\uc8fc\uc9d3\uc218 \ub9c8\uc6b4\ud2b8 \ucee8\ud2b8\ub864<>ricardo cavalcanti show<>\ud6c4", 
+    "level": 3, 
+    "pid": 164, 
+    "id": 165, 
+    "name": "Top/jiujitsu/mount/controls"
+  }, 
+  {
+    "query": "jiujitsu mount transitions<>\uc8fc\uc9d3\uc218 \ub9c8\uc6b4\ud2b8 \ud2b8\ub79c\uc9c0\uc158<>\uc81c 1\ud68c<>\uc774\uc2a4\ucf00\uc774\ud504", 
+    "level": 3, 
+    "pid": 164, 
+    "id": 166, 
+    "name": "Top/jiujitsu/mount/transitions"
+  }, 
+  {
+    "query": "jiujitsu mount escapes<>\uc8fc\uc9d3\uc218 \ub9c8\uc6b4\ud2b8 \uc774\uc2a4\ucf00\uc785<>escaping<>\uc774\uc2a4\ucf00\uc774\ud504", 
+    "level": 3, 
+    "pid": 164, 
+    "id": 167, 
+    "name": "Top/jiujitsu/mount/escapes"
+  }, 
+  {
+    "query": "jiujitsu mount submissions<>\uc8fc\uc9d3\uc218 \ub9c8\uc6b4\ud2b8 \uc11c\ube0c\ubbf8\uc158<>set ups<>\ubc0f", 
+    "level": 3, 
+    "pid": 164, 
+    "id": 168, 
+    "name": "Top/jiujitsu/mount/submissions"
+  }, 
+  {
+    "query": "jiujitsu north south <>\uc8fc\uc9d3\uc218 \ub178\uc2a4 \uc0ac\uc6b0\uc2a4<>northsouth<>", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 169, 
+    "name": "Top/jiujitsu/north south"
+  }, 
+  {
+    "query": "jiujitsu north south controls<>\uc8fc\uc9d3\uc218 \ub178\uc2a4 \uc0ac\uc6b0\uc2a4 \ucee8\ud2b8\ub864<>wearbjj scout<>\ud1b5\ud574\uc11c", 
+    "level": 3, 
+    "pid": 169, 
+    "id": 170, 
+    "name": "Top/jiujitsu/north south/controls"
+  }, 
+  {
+    "query": "jiujitsu north south grips<>\uc8fc\uc9d3\uc218 \ub178\uc2a4 \uc0ac\uc6b0\uc2a4 \uadf8\ub9bd<>tech demos httpsitunes<>latest news technique videos", 
+    "level": 3, 
+    "pid": 169, 
+    "id": 171, 
+    "name": "Top/jiujitsu/north south/grips"
+  }, 
+  {
+    "query": "jiujitsu north south escapes<>\uc8fc\uc9d3\uc218 \ub178\uc2a4 \uc0ac\uc6b0\uc2a4 \uc774\uc2a4\ucf00\uc785<>arm trap<>ser", 
+    "level": 3, 
+    "pid": 169, 
+    "id": 172, 
+    "name": "Top/jiujitsu/north south/escapes"
+  }, 
+  {
+    "query": "jiujitsu north south submissions<>\uc8fc\uc9d3\uc218 \ub178\uc2a4 \uc0ac\uc6b0\uc2a4 \uc11c\ube0c\ubbf8\uc158<>comkncs9z4flavio almeida<>\ubc0f", 
+    "level": 3, 
+    "pid": 169, 
+    "id": 173, 
+    "name": "Top/jiujitsu/north south/submissions"
+  }, 
+  {
+    "query": "jiujitsu north south transitions<>\uc8fc\uc9d3\uc218 \ub178\uc2a4 \uc0ac\uc6b0\uc2a4 \ud2b8\ub79c\uc9c0\uc158<>basic principal<>", 
+    "level": 3, 
+    "pid": 169, 
+    "id": 174, 
+    "name": "Top/jiujitsu/north south/transitions"
+  }, 
+  {
+    "query": "jiujitsu rolling <>\uc8fc\uc9d3\uc218 \ub864\ub9c1 <>that he has learned<>\uc11c\uc6b8", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 175, 
+    "name": "Top/jiujitsu/rolling "
+  }, 
+  {
+    "query": "jiujitsu rolling sessions<>\uc8fc\uc9d3\uc218 \ub864\ub9c1 \uc138\uc158<>having fun<>\uc11c\uc6b8", 
+    "level": 3, 
+    "pid": 175, 
+    "id": 176, 
+    "name": "Top/jiujitsu/rolling /sessions"
+  }, 
+  {
+    "query": "jiujitsu side control <>\uc8fc\uc9d3\uc218 \uc0ac\uc774\ub4dc \ucee8\ud2b8\ub864 <>0\uc5d0 \ub530\ub77c<>.nobrainsforyou .ca for", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 177, 
+    "name": "Top/jiujitsu/side control"
+  }, 
+  {
+    "query": "jiujitsu side control grips<>\uc8fc\uc9d3\uc218 \uc0ac\uc774\ub4dc \ucee8\ud2b8\ub864 \uadf8\ub9bd<>improv seminar<>nics podcast visithttpwww", 
+    "level": 3, 
+    "pid": 177, 
+    "id": 178, 
+    "name": "Top/jiujitsu/side control/grips"
+  }, 
+  {
+    "query": "jiujitsu side control escapes<>\uc8fc\uc9d3\uc218 \uc0ac\uc774\ub4dc \ucee8\ud2b8\ub864 \uc774\uc2a4\ucf00\uc785<>escaping<>basic principal", 
+    "level": 3, 
+    "pid": 177, 
+    "id": 179, 
+    "name": "Top/jiujitsu/side control/escapes"
+  }, 
+  {
+    "query": "jiujitsu side control submissions<>\uc0ac\uc8fc\uc9d3\uc218 \uc774\ub4dc \ucee8\ud2b8\ub864 \uc11c\ube0c\ubbf8\uc158<>reverse dlr<>\ubc0f", 
+    "level": 3, 
+    "pid": 177, 
+    "id": 180, 
+    "name": "Top/jiujitsu/side control/submissions"
+  }, 
+  {
+    "query": "jiujitsu side control transitions<>\uc8fc\uc9d3\uc218 \uc0ac\uc774\ub4dc \ucee8\ud2b8\ub864 \ud2b8\ub79c\uc9c0\uc158<>cross side<>.nobrainsforyou .ca for", 
+    "level": 3, 
+    "pid": 177, 
+    "id": 181, 
+    "name": "Top/jiujitsu/side control/transitions"
+  }, 
+  {
+    "query": "jiujitsu standing <>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 <>kneeling<>kent peterszombieproof", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 182, 
+    "name": "Top/jiujitsu/standing"
+  }, 
+  {
+    "query": "jiujitsu standing defense<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ub514\ud39c\uc2a4<>defence<>kent peterszombieproof", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 183, 
+    "name": "Top/jiujitsu/standing/defense"
+  }, 
+  {
+    "query": "jiujitsu standing counter<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \uce74\uc6b4\ud130<>collar sleeve<>\uc544\ub9c8\uc874 \ub2e4\uc774\uc2a4\ucf00", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 184, 
+    "name": "Top/jiujitsu/standing/counter"
+  }, 
+  {
+    "query": "jiujitsu standing flying attacks<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ud50c\ub77c\uc789 \uc5b4\ud0dd<>livethemachlife httpbit<>8\uac15", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 185, 
+    "name": "Top/jiujitsu/standing/flying attacks"
+  }, 
+  {
+    "query": "jiujitsu standing foot sweeps<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ud48b \uc2a4\uc715<>more with professor catania<>night rave\uc740\ub294", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 186, 
+    "name": "Top/jiujitsu/standing/foot sweeps"
+  }, 
+  {
+    "query": "jiujitsu standing gi<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \uae30<>guestshttpsgoo<>kent peterszombieproof", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 187, 
+    "name": "Top/jiujitsu/standing/gi"
+  }, 
+  {
+    "query": "jiujitsu standing jumping guard<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \uc810\ud551 \uac00\ub4dc<>korean by duck young<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 188, 
+    "name": "Top/jiujitsu/standing/jumping guard"
+  }, 
+  {
+    "query": "jiujitsu standing low single<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ub85c\uc6b0 \uc2f1\uae00<>licensing<>kent peterszombieproof", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 189, 
+    "name": "Top/jiujitsu/standing/low single"
+  }, 
+  {
+    "query": "jiujitsu standing lower body<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ud558\uccb4<>seated<>kent peterszombieproof", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 190, 
+    "name": "Top/jiujitsu/standing/lower body"
+  }, 
+  {
+    "query": "jiujitsu standing no gi<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ub178 \uae30<>kneeling<>kent peterszombieproof", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 191, 
+    "name": "Top/jiujitsu/standing/no gi"
+  }, 
+  {
+    "query": "jiujitsu standing pull guard<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \ud480 \uac00\ub4dc<>korean by duck young<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 192, 
+    "name": "Top/jiujitsu/standing/pull guard"
+  }, 
+  {
+    "query": "jiujitsu standing upper body<>\uc8fc\uc9d3\uc218 \uc2a4\ud0e0\ub529 \uc0c1\uccb4<>seated<>kent peterszombieproof", 
+    "level": 3, 
+    "pid": 182, 
+    "id": 193, 
+    "name": "Top/jiujitsu/standing/upper body"
+  }, 
+  {
+    "query": "jiujitsu submissions <>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158<>subs<>\ubc0f", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 194, 
+    "name": "Top/jiujitsu/submissions"
+  }, 
+  {
+    "query": "jiujitsu submissions armbars<>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158 \uc554\ubc14<>arm locks<>\ud55c", 
+    "level": 3, 
+    "pid": 194, 
+    "id": 195, 
+    "name": "Top/jiujitsu/submissions/armbars"
+  }, 
+  {
+    "query": "jiujitsu submissions chokes<>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158 \ucd08\ud06c<>arm locks<>\ubc0f", 
+    "level": 3, 
+    "pid": 194, 
+    "id": 196, 
+    "name": "Top/jiujitsu/submissions/chokes"
+  }, 
+  {
+    "query": "jiujitsu submissions footlocks<>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158 \ud48b \ub77d<>leg locks<>\ubc0f", 
+    "level": 3, 
+    "pid": 194, 
+    "id": 197, 
+    "name": "Top/jiujitsu/submissions/footlocks"
+  }, 
+  {
+    "query": "jiujitsu submissions kneebars<>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158 \ub2c8\ubc14<>leglocks<>\ubc0f", 
+    "level": 3, 
+    "pid": 194, 
+    "id": 198, 
+    "name": "Top/jiujitsu/submissions/kneebars"
+  }, 
+  {
+    "query": "jiujitsu submissions wristlocks<>\uc8fc\uc9d3\uc218 \uc11c\ube0c\ubbf8\uc158 \ub93c\uc2a4\ud2b8 \ub77d<>wrist locks<>\ubc0f", 
+    "level": 3, 
+    "pid": 194, 
+    "id": 199, 
+    "name": "Top/jiujitsu/submissions/wristlocks"
+  }, 
+  {
+    "query": "jiujitsu sweeps <>\uc8fc\uc9d3\uc218 \uc2a4\uc715<>apps<>\uc0c1\ub300", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 200, 
+    "name": "Top/jiujitsu/sweeps "
+  }, 
+  {
+    "query": "jiujitsu sweeps from open guard<>\uc8fc\uc9d3\uc218 \uc2a4\uc715 \uc624\ud508\uac00\ub4dc\uc5d0\uc11c<>by andre lima<>\uc0c1\ub300", 
+    "level": 3, 
+    "pid": 200, 
+    "id": 201, 
+    "name": "Top/jiujitsu/sweeps /sweeps from open guard"
+  }, 
+  {
+    "query": "jiujitsu sweeps from closed guard<>\uc8fc\uc9d3\uc218 \uc2a4\uc715 \ud074\ub85c\uc988\ub4dc\uac00\ub4dc\uc5d0\uc11c<>by andre lima<>\uc0c1\ub300", 
+    "level": 3, 
+    "pid": 200, 
+    "id": 202, 
+    "name": "Top/jiujitsu/sweeps /sweeps from closed guard "
+  }, 
+  {
+    "query": "jiujitsu turtle <>\uc8fc\uc9d3\uc218 \ud130\ud2c0<>sit out<>", 
+    "level": 2, 
+    "pid": 99, 
+    "id": 203, 
+    "name": "Top/jiujitsu/turtle "
+  }, 
+  {
+    "query": "jiujitsu turtle escapes<>\uc8fc\uc9d3\uc218 \ud130\ud2c0 \uc774\uc2a4\ucf00\uc785<>2014 adcc asia<>ser", 
+    "level": 3, 
+    "pid": 203, 
+    "id": 204, 
+    "name": "Top/jiujitsu/turtle /escapes"
+  }, 
+  {
+    "query": "jiujitsu turtle submissions<>\uc8fc\uc9d3\uc218 \ud130\ud2c0 \uc11c\ube0c\ubbf8\uc158<>russian sambo<>\ubc0f", 
+    "level": 3, 
+    "pid": 203, 
+    "id": 205, 
+    "name": "Top/jiujitsu/turtle /submissions"
+  }, 
+  {
+    "query": "jiujitsu turtle transitions<>\uc8fc\uc9d3\uc218 \ud130\ud2c0 \ud2b8\ub79c\uc9c0\uc158<>creative<>", 
+    "level": 3, 
+    "pid": 203, 
+    "id": 206, 
+    "name": "Top/jiujitsu/turtle /transitions"
+  }, 
+  {
+    "query": "judo<>\uc720\ub3c4<>\u0434\u0437\u044e\u0434\u043e<>2014\ub144 \uc804\uad6d\uc18c\ub144\uccb4\uc804", 
+    "level": 1, 
+    "pid": 0, 
+    "id": 207, 
+    "name": "Top/\uc720\ub3c4"
+  }, 
+  {
+    "query": "te waza<>\uc720\ub3c4 \uc190\uae30\uc220<>lezione<>\ud0dc\uad8c\ub3c4", 
+    "level": 3, 
+    "pid": 0, 
+    "id": 208, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220"
+  }, 
+  {
+    "query": "ippon seoi nage<>\ud55c\ud314 \uc5c5\uc5b4\uce58\uae30<>curso de jiujitsu<>ks", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 209, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ud55c\ud314 \uc5c5\uc5b4\uce58\uae30"
+  }, 
+  {
+    "query": "kibisu gaeshi<>\ubc1c\ubaa9\uc7a1\uc544 \uba54\uce58\uae30<>\u0431\u0440\u043e\u0441\u043e\u043a \u0447\u0435\u0440\u0435\u0437 \u0441\u043f\u0438\u043d\u0443 \u0441<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 210, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ubc1c\ubaa9\uc7a1\uc544 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "kata guruma<>\uc5b4\uae68\ub85c \uba54\uce58\uae30<>zantaraia<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 211, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\uc5b4\uae68\ub85c \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "kuchiki taoshi<>\uc624\uae08\uc7a1\uc544 \uba54\uce58\uae30<>senior grading iijc<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 212, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\uc624\uae08\uc7a1\uc544 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "morote gari<>\ub2e4\ub9ac\uc7a1\uc544 \uba54\uce58\uae30<>7 \u0438\u044e\u043b\u044f 2016<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 213, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ub2e4\ub9ac\uc7a1\uc544 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "obi otoshi<>\ub760\uc7a1\uc544 \ub4a4\uc9d1\uae30<>juji garami<>\ud604\uc7a5", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 214, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ub760\uc7a1\uc544 \ub4a4\uc9d1\uae30"
+  }, 
+  {
+    "query": "obi tori gaeshi<>\ub760\uc7a1\uc544 \ub4a4\uc9d1\uae30<>delay<>\ud604\uc7a5", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 215, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ub760\uc7a1\uc544 \ub4a4\uc9d1\uae30"
+  }, 
+  {
+    "query": "seoi nage<>\uc5c5\uc5b4\uce58\uae30<>gokio<>ks", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 216, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\uc5c5\uc5b4\uce58\uae30"
+  }, 
+  {
+    "query": "seoi otoshi<>\uc5c5\uc5b4 \ub5a8\uc5b4\ub728\ub9ac\uae30<>liaison debout sol<>\uc30d\uc808\uace4", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 217, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\uc5c5\uc5b4 \ub5a8\uc5b4\ub728\ub9ac\uae30"
+  }, 
+  {
+    "query": "sumi otoshi<>\ubaa8\ub85c \ub5a8\uc5b4\ub728\ub9ac\uae30<>kiri otoshi<>\ub808\uace0", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 218, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ubaa8\ub85c \ub5a8\uc5b4\ub728\ub9ac\uae30"
+  }, 
+  {
+    "query": "sukui nage<>\ub2e4\ub9ac\ub4e4\uc5b4 \uba54\uce58\uae30<>borgen go kyu no<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 219, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ub2e4\ub9ac\ub4e4\uc5b4 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "tai otoshi<>\ube57\ub2f9\uaca8\uce58\uae30<>ko uchi gari<>\uad00\ub828", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 220, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ube57\ub2f9\uaca8\uce58\uae30"
+  }, 
+  {
+    "query": "uki otoshi<>\ub744\uc5b4\uce58\uae30<>dingianni tori and<>", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 221, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\ub744\uc5b4\uce58\uae30"
+  }, 
+  {
+    "query": "yama arashi<>\uc678\uae43\uc7a1\uc544\uc5c5\uc5b4\ud6c4\ub9ac\uae30<>maestro<>", 
+    "level": 4, 
+    "pid": 208, 
+    "id": 222, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\uc190\uae30\uc220/\uc678\uae43\uc7a1\uc544\uc5c5\uc5b4\ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "koshi waza<>\uc720\ub3c4 \ud5c8\ub9ac\uae30\uc220<>authentic aiki techniques<>2014\ub144 \uc804\uad6d\uc18c\ub144\uccb4\uc804", 
+    "level": 3, 
+    "pid": 0, 
+    "id": 223, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220"
+  }, 
+  {
+    "query": "hane goshi<>\ud5c8\ub9ac \ud280\uae30<>yubi<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 224, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \ud280\uae30"
+  }, 
+  {
+    "query": "harai goshi<>\ud5c8\ub9ac \ud6c4\ub9ac\uae30<>tsuri komi goshi<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 225, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "koshi guruma<>\ud5c8\ub9ac \ub3cc\ub9ac\uae30<>sortie de<>\uace8\uace0\ub8e8", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 226, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \ub3cc\ub9ac\uae30"
+  }, 
+  {
+    "query": "o goshi<>\ud5c8\ub9ac \uaef4\uce58\uae30<>kettlebell<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 227, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \uaef4\uce58\uae30"
+  }, 
+  {
+    "query": "sode tsurikomi goshi<>\uc18c\ub9e4\ub4e4\uc5b4 \ud5c8\ub9ac\ucc44\uae30<>\u53f0\u5317\u5e02\u548c\u5e73\u67d4\u9053\u9928<>", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 228, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\uc18c\ub9e4\ub4e4\uc5b4 \ud5c8\ub9ac\ucc44\uae30"
+  }, 
+  {
+    "query": "tsuri goshi<>\ub760\uc7a1\uc544 \uba54\uce58\uae30<>kyu programm<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 229, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ub760\uc7a1\uc544 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "tsurikomi goshi<>\ud5c8\ub9ac \ucc44\uae30<>\u0431\u0440\u043e\u0441\u043e\u043a \u0447\u0435\u0440\u0435\u0437 \u0441\u043f\u0438\u043d\u0443 \u0441<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 230, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \ucc44\uae30"
+  }, 
+  {
+    "query": "uki goshi<>\ud5c8\ub9ac \ub744\uae30<>tsuri komi goshi<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 231, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \ub744\uae30"
+  }, 
+  {
+    "query": "ushiro goshi<>\ub4a4\ud5c8\ub9ac\uc548\uc544 \uba54\uce58\uae30<>shoulder drop<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 232, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ub4a4\ud5c8\ub9ac\uc548\uc544 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "utsuri goshi<>\ud5c8\ub9ac \uc62e\uaca8\uce58\uae30<>alg\u00e9rie<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 233, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\ud5c8\ub9ac \uc62e\uaca8\uce58\uae30"
+  }, 
+  {
+    "query": "daki age<>\uc548\uc544 \ub4e4\uc5b4\uc62c\ub9ac\uae30<>b\u00fcy\u00fck<>\ud55c\ud3b8", 
+    "level": 4, 
+    "pid": 223, 
+    "id": 234, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ud5c8\ub9ac\uae30\uc220/\uc548\uc544 \ub4e4\uc5b4\uc62c\ub9ac\uae30"
+  }, 
+  {
+    "query": "ashi waza<>\uc720\ub3c4 \ubc1c\uae30\uc220<>okuri ashi barai<>2014\ub144 \uc804\uad6d\uc18c\ub144\uccb4\uc804", 
+    "level": 3, 
+    "pid": 0, 
+    "id": 235, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220"
+  }, 
+  {
+    "query": "ashi guruma<>\ub2e4\ub9ac\ub300 \ub3cc\ub9ac\uae30<>samurai bokken httpamzn<>\uc2a4\ud2b8\ub808\uc2a4", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 236, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ub2e4\ub9ac\ub300 \ub3cc\ub9ac\uae30"
+  }, 
+  {
+    "query": "deashi harai<>\ub098\uc624\ub294 \ubc1c\uce58\uae30  <>our online<>view hundreds of videos", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 237, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ub098\uc624\ub294 \ubc1c\uce58\uae30  "
+  }, 
+  {
+    "query": "hiza guruma<>\ubb34\ub98e\ub300\ub3cc\ub9ac\uae30<>sortie de<>", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 238, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubb34\ub98e\ub300\ub3cc\ub9ac\uae30"
+  }, 
+  {
+    "query": "harai tsurikomi ashi<>\ubc1c\ubaa9 \ud6c4\ub9ac\uae30<>kempo<>1\ucc28", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 239, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubc1c\ubaa9 \ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "kosoto gari<>\ubc1c\ub4a4\ucd95 \ud6c4\ub9ac\uae30<>\u062c\u0648\u062f\u0648<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 240, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubc1c\ub4a4\ucd95 \ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "kosoto gake<>\ubc1c\ub4a4\ucd95 \uac78\uae30<>ko soto gake<>\uc81c\uacf5", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 241, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubc1c\ub4a4\ucd95 \uac78\uae30"
+  }, 
+  {
+    "query": "kouchi gari<>\uc548\ub4a4\ucd95 \ud6c4\ub9ac\uae30<>hiza garuma<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 242, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\uc548\ub4a4\ucd95 \ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "okuri ashi harai<>\ubaa8\ub450 \uac78\uae30<>major hip throw<>\uc81c\uacf5", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 243, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubaa8\ub450 \uac78\uae30"
+  }, 
+  {
+    "query": "osoto guruma<>\ub450\ubc1c\ub2e4\ub9ac\uac78\uae30<>bradford jiu jitsu<>", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 244, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ub450\ubc1c\ub2e4\ub9ac\uac78\uae30"
+  }, 
+  {
+    "query": "o guruma<>\ud5c8\ub9ac\ub300\ub3cc\ub9ac\uae30<>lao<>", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 245, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ud5c8\ub9ac\ub300\ub3cc\ub9ac\uae30"
+  }, 
+  {
+    "query": "osoto gari<>\ubc2d\ub2e4\ub9ac\ud6c4\ub9ac\uae30<>de ashi harai<>\u0442\u0435\u0445\u043d\u0438\u043a\u0430 \u0441\u043a\u043e\u0432\u044b\u0432\u0430\u044e\u0449\u0438\u0445 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0439", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 246, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubc2d\ub2e4\ub9ac\ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "osoto otoshi<>\ubc2d\ub2e4\ub9ac\ub5a8\uc5b4\ub728\ub9ac\uae30<>\u043f\u0440\u043e\u0433\u0438\u0431<>", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 247, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubc2d\ub2e4\ub9ac\ub5a8\uc5b4\ub728\ub9ac\uae30"
+  }, 
+  {
+    "query": "ouchi gari<>\uc548\ub2e4\ub9ac \ud6c4\ub9ac\uae30<>harai tsuri komi ashi<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 248, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\uc548\ub2e4\ub9ac \ud6c4\ub9ac\uae30"
+  }, 
+  {
+    "query": "sasae tsurikomi ashi<>\ubc1c\ubaa9\ubc1b\uce58\uae30<>nippon taiku university<>", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 249, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ubc1c\ubaa9\ubc1b\uce58\uae30"
+  }, 
+  {
+    "query": "uchi mata<>\ud5c8\ubc85\ub2e4\ub9ac\uac78\uae30<>uchimata<>\u25b7 navertvcast", 
+    "level": 4, 
+    "pid": 235, 
+    "id": 250, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc1c\uae30\uc220/\ud5c8\ubc85\ub2e4\ub9ac\uac78\uae30"
+  }, 
+  {
+    "query": "gaeshi<>\uc720\ub3c4 \ub418\uce58\uae30<>combinaciones<>2014\ub144 \uc804\uad6d\uc18c\ub144\uccb4\uc804", 
+    "level": 3, 
+    "pid": 0, 
+    "id": 251, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30"
+  }, 
+  {
+    "query": "kouchi gaeshi<>\uc548\ub4a4\ucd95 \ub418\uce58\uae30<>bradford jiu jitsu<>\uaebd\uae30", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 252, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\uc548\ub4a4\ucd95 \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "uchi mata sukashi<>\ud5c8\ubc85\ub2e4\ub9ac \ube44\uaef4 \ub418\uce58\uae30<>joelho<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 253, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\ud5c8\ubc85\ub2e4\ub9ac \ube44\uaef4 \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "tsubame gaeshi<>\ubaa8\ub450 \uac78\uae30 \ub418\uce58\uae30<>assassin<>19 \uc138\uc0c1\uc5d0", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 254, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\ubaa8\ub450 \uac78\uae30 \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "osoto gaeshi<>\ubc2d\ub2e4\ub9ac \ub418\uce58\uae30<>kaeshi ryu jujitsu<>\uaebd\uae30", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 255, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\ubc2d\ub2e4\ub9ac \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "uchi mata gaeshi<>\ud5c8\ubc85\ub2e4\ub9ac \ub418\uce58\uae30<>tsuri komi goshi<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 256, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\ud5c8\ubc85\ub2e4\ub9ac \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "ouchi gaeshi<>\uc548\ub2e4\ub9ac \ub418\uce58\uae30<>settembre 2014<>kr\u25b6 \uae30\uc0ac", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 257, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\uc548\ub2e4\ub9ac \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "hane goshi gaeshi<>\ud5c8\ub9ac \ud280\uae30 \ub418\uce58\uae30<>tsuri komi goshi<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 258, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\ud5c8\ub9ac \ud280\uae30 \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "harai goshi gaeshi<>\ud5c8\ub9ac \ud6c4\ub9ac\uae30 \ub418\uce58\uae30<>tsuri komi goshi<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 251, 
+    "id": 259, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ub418\uce58\uae30/\ud5c8\ub9ac \ud6c4\ub9ac\uae30 \ub418\uce58\uae30"
+  }, 
+  {
+    "query": "masutemi waza<>\uc720\ub3c4 \ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30<>knees<>2014\ub144 \uc804\uad6d\uc18c\ub144\uccb4\uc804", 
+    "level": 3, 
+    "pid": 0, 
+    "id": 260, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30"
+  }, 
+  {
+    "query": "obi tori gaeshi<>\ub760\uc7a1\uc544 \ub4a4\uc9d1\uae30<>delay<>\ud604\uc7a5", 
+    "level": 4, 
+    "pid": 260, 
+    "id": 261, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30/\ub760\uc7a1\uc544 \ub4a4\uc9d1\uae30"
+  }, 
+  {
+    "query": "sumi gaeshi<>\uc548\uc624\uae08 \ub744\uae30<>sode tsuri komi goshi<>", 
+    "level": 4, 
+    "pid": 260, 
+    "id": 262, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30/\uc548\uc624\uae08 \ub744\uae30"
+  }, 
+  {
+    "query": "tomoe nage<>\ubc30\ub300 \ub4a4\uce58\uae30<>yossi sheriff httpwww<>", 
+    "level": 4, 
+    "pid": 260, 
+    "id": 263, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30/\ubc30\ub300 \ub4a4\uce58\uae30"
+  }, 
+  {
+    "query": "tawara gaeshi<>\ub4a4\uc9d1\uc5b4 \ub118\uae30\uae30<>pascal<>jin korea", 
+    "level": 4, 
+    "pid": 260, 
+    "id": 264, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30/\ub4a4\uc9d1\uc5b4 \ub118\uae30\uae30"
+  }, 
+  {
+    "query": "ura nage<>\ub204\uc6b0\uba74\uc11c \ub358\uc9c0\uae30<>\u00e9tranglement<>\uc2a4\ud0e0\ub529", 
+    "level": 4, 
+    "pid": 260, 
+    "id": 265, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubc14\ub85c\ub204\uba70 \ub9e4\uce58\uae30/\ub204\uc6b0\uba74\uc11c \ub358\uc9c0\uae30"
+  }, 
+  {
+    "query": "yokosutemi waza<>\uc720\ub3c4 \ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30<>kdk goshin jutsu<>\uc120\uc218", 
+    "level": 3, 
+    "pid": 0, 
+    "id": 266, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30"
+  }, 
+  {
+    "query": "daki wakare<>\ud5c8\ub9ac\uc548\uc544 \ub3cc\ub9ac\uae30<>wikipedia<>\uc2a4\ud2b8\ub808\uc2a4", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 267, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ud5c8\ub9ac\uc548\uc544 \ub3cc\ub9ac\uae30"
+  }, 
+  {
+    "query": "hane makikomi<>\ud5c8\ub9ac \ud280\uae30 \uac10\uc544\uce58\uae30<>\u00e0 gauche<>\ud6a8\uacfc\uac00", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 268, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ud5c8\ub9ac \ud280\uae30 \uac10\uc544\uce58\uae30"
+  }, 
+  {
+    "query": "harai makikomi<>\ud5c8\ub9ac \ud6c4\ub9ac\uae30 \uac10\uc544\uce58\uae30<>hip throw<>\uc0c1\uc2dd \ucc45\uc744", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 269, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ud5c8\ub9ac \ud6c4\ub9ac\uae30 \uac10\uc544\uce58\uae30"
+  }, 
+  {
+    "query": "osoto makikomi<>\ubc2d\ub2e4\ub9ac \uac10\uc544\uce58\uae30<>yossi sheriff httpwww<>", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 270, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ubc2d\ub2e4\ub9ac \uac10\uc544\uce58\uae30"
+  }, 
+  {
+    "query": "soto makikomi<>\ubc14\uae65 \uac10\uc544\uce58\uae30<>senior grading iijc<>\uc758\ud55c", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 271, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ubc14\uae65 \uac10\uc544\uce58\uae30"
+  }, 
+  {
+    "query": "tani otoshi<>\uc624\uae08\ub300 \ub5a8\uc5b4\ub728\ub9ac\uae30<>knockout<>\uc30d\uc808\uace4", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 272, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\uc624\uae08\ub300 \ub5a8\uc5b4\ub728\ub9ac\uae30"
+  }, 
+  {
+    "query": "uchi makikomi<>\uc548\ucabd \uac10\uc544\uce58\uae30<>httpthedifficultway<>\uac1c\ubc1c\ud55c", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 273, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\uc548\ucabd \uac10\uc544\uce58\uae30"
+  }, 
+  {
+    "query": "uchi mata makikomi?<>\ud5c8\ubc85\ub2e4\ub9ac \uac10\uc544\uce58\uae30<>uchimata<>bleibt gleich", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 274, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ud5c8\ubc85\ub2e4\ub9ac \uac10\uc544\uce58\uae30"
+  }, 
+  {
+    "query": "uki waza<>\ubaa8\ub85c\ub744\uae30<>web sites at httpwww<>", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 275, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ubaa8\ub85c\ub744\uae30"
+  }, 
+  {
+    "query": "yoko gake<>\ubaa8\ub85c\uac78\uae30<>harai tsuri komi ashi<>", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 276, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ubaa8\ub85c\uac78\uae30"
+  }, 
+  {
+    "query": "yoko guruma<>\ubaa8\ub85c\ub3cc\ub9ac\uae30<>senior grading iijc<>", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 277, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\ubaa8\ub85c\ub3cc\ub9ac\uae30"
+  }, 
+  {
+    "query": "yoko otoshi<>\uc606\uc73c\ub85c \ub5a8\uc5b4\ub728\ub9ac\uae30<>leigh rossi<>\uc7a0\uc744", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 278, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\uc606\uc73c\ub85c \ub5a8\uc5b4\ub728\ub9ac\uae30"
+  }, 
+  {
+    "query": "yoko wakare<>\uc606\uc73c\ub85c \ub204\uc6b0\uba70 \ub358\uc9c0\uae30<>senior grading iijc<>\ucd94\ucc9c\ud558\ub294", 
+    "level": 4, 
+    "pid": 266, 
+    "id": 279, 
+    "name": "Top/\uc720\ub3c4/\uba54\uce58\uae30/\ubaa8\ub85c \ub204\uba70 \uba54\uce58\uae30/\uc606\uc73c\ub85c \ub204\uc6b0\uba70 \ub358\uc9c0\uae30"
+  }, 
+  {
+    "query": "katame waza<>\uad73\ud788\uae30<>kyu programm<>\uc77c\ubc18\ubd80", 
+    "level": 2, 
+    "pid": 207, 
+    "id": 280, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30"
+  }, 
+  {
+    "query": "osae komi waza<>\uc720\ub3c4 \ub204\ub974\uae30<>travail<>\uc774\ubca4\ud2b8", 
+    "level": 3, 
+    "pid": 280, 
+    "id": 281, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30"
+  }, 
+  {
+    "query": "kata gatame<>\uc5b4\uae68 \ub204\ub974\uae30<>side control<>is historically related to", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 282, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uc5b4\uae68 \ub204\ub974\uae30"
+  }, 
+  {
+    "query": "kesa gatame??<>\uacc1\ub204\ub974\uae30<>udegarami<>\uc190\uc774", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 283, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uacc1\ub204\ub974\uae30"
+  }, 
+  {
+    "query": "kuzure kesa gatame<>\uace0\uccd0 \uacc1\ub204\ub9ac\uae30<>inmovilizacion<>", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 284, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uace0\uccd0 \uacc1\ub204\ub9ac\uae30"
+  }, 
+  {
+    "query": "kuzure kami shiho gatame<>\uc704\uace0\uccd0\ub204\ub974\uae30<>\u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u043a\u0438\u0441\u043c\u0438<>", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 285, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uc704\uace0\uccd0\ub204\ub974\uae30"
+  }, 
+  {
+    "query": "kami shiho gatame<>\uc704 \ub204\ub974\uae30<>leszor\u00edt\u00e1s<>\ub2ec\ub9ac\ub294", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 286, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uc704 \ub204\ub974\uae30"
+  }, 
+  {
+    "query": "tate shiho gatame<>\uc138\ub85c \ub204\ub974\uae30<>cjl<>\uc774\ub54c", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 287, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uc138\ub85c \ub204\ub974\uae30"
+  }, 
+  {
+    "query": "yoko shiho gatame<>\uac00\ub85c \ub204\ub974\uae30<>yokoshihogatame<>\uc774\ubca4\ud2b8", 
+    "level": 4, 
+    "pid": 281, 
+    "id": 288, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\ub204\ub974\uae30/\uac00\ub85c \ub204\ub974\uae30"
+  }, 
+  {
+    "query": "shime waza<>\uc720\ub3c4 \uc870\ub974\uae30<>animation \ud615\uc2dd\uc73c\ub85c \uc124\uba85\ud55c\ub2e4<>\ucc3d\uc5c5", 
+    "level": 3, 
+    "pid": 280, 
+    "id": 289, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30"
+  }, 
+  {
+    "query": "gyaku juji jime<>\uc5ed\uc2ed\uc790\uc870\ub974\uae30<>jiu jitsu<>", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 290, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc5ed\uc2ed\uc790\uc870\ub974\uae30"
+  }, 
+  {
+    "query": "hadaka jime<>\ub9e8\uc190 \uc870\ub974\uae30<>sleeve choke<>\ud655\uc2e4\ud788", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 291, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\ub9e8\uc190 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "kata ha jime<>\uc8fd\uc9c0\uac78\uc5b4 \uc870\ub974\uae30<>peac<>\ud655\uc2e4\ud788", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 292, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc8fd\uc9c0\uac78\uc5b4 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "kata juji jime<>\uc678\uc9d1\uc790 \uc870\ub974\uae30<>varia\u00e7\u00f5es<>\ud655\uc2e4\ud788", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 293, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc678\uc9d1\uc790 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "kata te jime<>\ud55c\uc190 \uc870\ub974\uae30<>op httpwww<>\ud655\uc2e4\ud788", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 294, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\ud55c\uc190 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "nami juji jime<>\uc2ed\uc790 \uc870\ub974\uae30<>samurai bokken httpamzn<>\ud655\uc2e4\ud788", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 295, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc2ed\uc790 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "okuri eri jime<>\uc548\uc544 \uc870\ub974\uae30<>half nelson<>for watching our video", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 296, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc548\uc544 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "ryo te jime<>\uc591\uc190 \uc870\ub974\uae30<>op httpwww<>\uc120\uc218\ub4e4\uc774", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 297, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc591\uc190 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "sode guruma jime<>\uc18c\ub9e4\uae43 \uc7a1\uace0 \uc870\ub974\uae30<>auf vielen<>\uc6d4~\uae08 20\uc2dc", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 298, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc18c\ub9e4\uae43 \uc7a1\uace0 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "tsukkomi jime<>\uc8fc\uba39 \uc870\ub974\uae30<>\u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u043a\u0438\u0441\u043c\u0438<>\uc775\ud788\uae30", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 299, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc8fc\uba39 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "sankaku jime<>\uc0bc\uac01 \uc870\ub974\uae30<>\uc81c\uc555<>\ud655\uc2e4\ud788", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 300, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\uc0bc\uac01 \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "do jime<>\ud5c8\ub9ac \uc870\ub974\uae30<>vine<>\uc7a1\uc740 \uae43", 
+    "level": 4, 
+    "pid": 289, 
+    "id": 301, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uc870\ub974\uae30/\ud5c8\ub9ac \uc870\ub974\uae30"
+  }, 
+  {
+    "query": "kansetsu waza<>\uc720\ub3c4 \uaebe\uae30<>club\u2605 httpcafe<>2014\ub144 \uc804\uad6d\uc18c\ub144\uccb4\uc804", 
+    "level": 3, 
+    "pid": 280, 
+    "id": 302, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi ashi gatame<>\ub2e4\ub9ac\ub300 \ud314\uaebe\uae30<>estrangulaciones<>", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 303, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\ub2e4\ub9ac\ub300 \ud314\uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi hara gatame<>\ubc30\ub300 \ud314\uaebe\uae30<>cjl<>", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 304, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\ubc30\ub300 \ud314\uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi hiza gatame<>\ubb34\ub98e\ub300 \ud314\uaebe\uae30<>akban headmaster<>", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 305, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\ubb34\ub98e\ub300 \ud314\uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi juji gatame<>\ud314\uac00\ub85c \ub204\uc6cc \uaebe\uae30<>variantes<>into pinning", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 306, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\ud314\uac00\ub85c \ub204\uc6cc \uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi sankaku gatame<>\uc0bc\uac01\ud314 \uaebe\uae30<>llave<>\uac15\ud638\ub3d9 vs", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 307, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\uc0bc\uac01\ud314 \uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi te gatame<>\uc190\ub300\ud314 \uaebe\uae30<>llave<>\uac15\ud638\ub3d9 vs", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 308, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\uc190\ub300\ud314 \uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi waki gatame<>\uaca8\ub4dc\ub791\uc774\ub300 \ud314\uaebe\uae30<>kimura<>", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 309, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\uaca8\ub4dc\ub791\uc774\ub300 \ud314\uaebe\uae30"
+  }, 
+  {
+    "query": "ude hishigi ude gatame<>\uc5b4\uae68\ub300\ud314\uafc8\uce58 \uaebe\uae30<>revers<>\uac15\ud638\ub3d9 vs", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 310, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\uc5b4\uae68\ub300\ud314\uafc8\uce58 \uaebe\uae30"
+  }, 
+  {
+    "query": "ude garami<>\ud314\uc5bd\uc5b4 \ube44\ud2c0\uae30<>udegarami<>\uc6b4\ub3d9", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 311, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\ud314\uc5bd\uc5b4 \ube44\ud2c0\uae30"
+  }, 
+  {
+    "query": "ashi garami<>\ub2e4\ub9ac\uc5bd\uc5b4 \ube44\ud2c0\uae30<>heel hook<>\uc6b4\ub3d9", 
+    "level": 4, 
+    "pid": 302, 
+    "id": 312, 
+    "name": "Top/\uc720\ub3c4/\uad73\ud788\uae30/\uaebe\uae30/\ub2e4\ub9ac\uc5bd\uc5b4 \ube44\ud2c0\uae30"
+  }, 
+  {
+    "query": "swim<>\uc218\uc601<>speedo fit<>25\ubbf8\ud130", 
+    "level": 1, 
+    "pid": 0, 
+    "id": 313, 
+    "name": "Top/swim"
+  }, 
+  {
+    "query": "swim freestyle<>\uc218\uc601 \uc790\uc720\ud615<>speedo fit<>\uc624\ub9ac\ubc1c", 
+    "level": 2, 
+    "pid": 313, 
+    "id": 314, 
+    "name": "Top/swim/freestyle"
+  }, 
+  {
+    "query": "swim freestyle stroke<>\uc218\uc601 \uc790\uc720\ud615 \ud314\ub3d9\uc791<>speedo fit<>\uc624\ub9ac\ubc1c", 
+    "level": 3, 
+    "pid": 314, 
+    "id": 315, 
+    "name": "Top/swim/freestyle/stroke"
+  }, 
+  {
+    "query": "swim freestyle kick<>\uc218\uc601 \uc790\uc720\ud615 \ubc1c\ucc28\uae30<>speedo fit<>\ubb3c\uc5d0", 
+    "level": 3, 
+    "pid": 314, 
+    "id": 316, 
+    "name": "Top/swim/freestyle/kick"
+  }, 
+  {
+    "query": "swim backstroke <>\uc218\uc601 \ubc30\uc601<>front view<>\ub3d9\uc601\uc0c1", 
+    "level": 2, 
+    "pid": 313, 
+    "id": 317, 
+    "name": "Top/swim/backstroke"
+  }, 
+  {
+    "query": "swim backstroke stroke<>\uc218\uc601 \ubc30\uc601 \ud314\ub3d9\uc791<>front view<>\ub3d9\uc601\uc0c1", 
+    "level": 3, 
+    "pid": 317, 
+    "id": 318, 
+    "name": "Top/swim/backstroke/stroke"
+  }, 
+  {
+    "query": "swim backstroke kick<>\uc218\uc601 \ubc30\uc601 \ubc1c\ucc28\uae30<>jessica hardy<>\uc624\ub9ac\ubc1c", 
+    "level": 3, 
+    "pid": 317, 
+    "id": 319, 
+    "name": "Top/swim/backstroke/kick"
+  }, 
+  {
+    "query": "swim breaststroke <>\uc218\uc601 \ud3c9\uc601<>speedo fit<>25\ubbf8\ud130", 
+    "level": 2, 
+    "pid": 313, 
+    "id": 320, 
+    "name": "Top/swim/breaststroke"
+  }, 
+  {
+    "query": "swim breaststroke stroke<>\uc218\uc601 \ud3c9\uc601 \ud314\ub3d9\uc791<>speedo fit<>25\ubbf8\ud130", 
+    "level": 3, 
+    "pid": 320, 
+    "id": 321, 
+    "name": "Top/swim/breaststroke/stroke"
+  }, 
+  {
+    "query": "swim breaststroke kick<>\uc218\uc601 \ud3c9\uc601 \ubc1c\ucc28\uae30<>speedo fit<>\uc624\ub9ac\ubc1c", 
+    "level": 3, 
+    "pid": 320, 
+    "id": 322, 
+    "name": "Top/swim/breaststroke/kick"
+  }, 
+  {
+    "query": "swim butterfly <>\uc218\uc601 \uc811\uc601<>front view<>\ud3c9\ud615", 
+    "level": 2, 
+    "pid": 313, 
+    "id": 323, 
+    "name": "Top/swim/butterfly"
+  }, 
+  {
+    "query": "swim butterfly stroke<>\uc218\uc601 \uc811\uc601 \ud314\ub3d9\uc791<>jessica hardy<>\ud3c9\ud615", 
+    "level": 3, 
+    "pid": 323, 
+    "id": 324, 
+    "name": "Top/swim/butterfly/stroke"
+  }, 
+  {
+    "query": "swim butterfly kick<>\uc218\uc601 \uc811\uc601 \ubc1c\ucc28\uae30<>jessica hardy<>\ud3c9\ud615", 
+    "level": 3, 
+    "pid": 323, 
+    "id": 325, 
+    "name": "Top/swim/butterfly/kick"
+  }, 
+  {
+    "query": "swim turn <>\uc218\uc601 \ud134<>this is youngho<>\ub3d9\uc601\uc0c1", 
+    "level": 2, 
+    "pid": 313, 
+    "id": 326, 
+    "name": "Top/swim/turn"
+  }, 
+  {
+    "query": "swim start <>\uc218\uc601 \uc2a4\ud0c0\ud2b8<>ironman lake placid<>\uc7a0\uc601", 
+    "level": 2, 
+    "pid": 313, 
+    "id": 327, 
+    "name": "Top/swim/start"
+  }, 
+  {
+    "query": "table tennis<>\ud0c1\uad6c<>ping pong<>", 
+    "level": 1, 
+    "pid": 0, 
+    "id": 328, 
+    "name": "Top/table tennis"
+  }, 
+  {
+    "query": "table tennis base<>\ud0c1\uad6c\uc758 \uae30\ubcf8<>ping pong<>\ucf54\uce58\ub2d8", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 329, 
+    "name": "Top/table tennis/base"
+  }, 
+  {
+    "query": "table tennis tools<>\ud0c1\uad6c \uae30\ubcf8 \ub3c4\uad6c<>glht6ch1cornilleau pro<>\ud65c\uc6a9", 
+    "level": 3, 
+    "pid": 329, 
+    "id": 330, 
+    "name": "Top/table tennis/base/table tennis tools"
+  }, 
+  {
+    "query": "table tennis basic position<>\ud0c1\uad6c \uae30\ubcf8 \uc790\uc138<>glht6ch1cornilleau pro<>emratthich\u2514 httpsgoo", 
+    "level": 3, 
+    "pid": 329, 
+    "id": 331, 
+    "name": "Top/table tennis/base/basic position"
+  }, 
+  {
+    "query": "table tennis paddle angle<>\ud0c1\uad6c \ub77c\ucf13 \uac01\ub3c4<>glht6ch1cornilleau pro<>4\ubd80", 
+    "level": 3, 
+    "pid": 329, 
+    "id": 332, 
+    "name": "Top/table tennis/base/table tennis paddle angle"
+  }, 
+  {
+    "query": "table tennis grip<>\ud0c1\uad6c \uadf8\ub9bd\ubc95<>glht6ch1cornilleau pro<>\ubcf8\uc120", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 333, 
+    "name": "Top/table tennis/grip"
+  }, 
+  {
+    "query": "pen holder grip<>\ud0c1\uad6c \ud39c\ud640\ub354 \uadf8\ub9bd<>xstylus touch<>httpcafenavercomtakgunuri", 
+    "level": 3, 
+    "pid": 333, 
+    "id": 334, 
+    "name": "Top/table tennis/grip/pen holder grip"
+  }, 
+  {
+    "query": "penholder short grip<>\ud0c1\uad6c \ud39c\ud640\ub354 \uc1fc\ud2b8 \uadf8\ub9bd<>glht6ch1cornilleau pro<>\ubcf4\uae30", 
+    "level": 3, 
+    "pid": 333, 
+    "id": 335, 
+    "name": "Top/table tennis/grip/penholder short grip"
+  }, 
+  {
+    "query": "shake hand grip<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \uadf8\ub9bd<>spinlord marder ii<>business inquiries", 
+    "level": 3, 
+    "pid": 333, 
+    "id": 336, 
+    "name": "Top/table tennis/grip/shake hand grip"
+  }, 
+  {
+    "query": "table tennis foot work<>\ud0c1\uad6c \ud48b\uc6cc\ud06c<>glht6ch1cornilleau pro<>\ubc30\ub4dc\ubbfc\ud134", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 337, 
+    "name": "Top/table tennis/foot work"
+  }, 
+  {
+    "query": "table tennis body balance<>\ud0c1\uad6c \ubab8 \ubc38\ub7f0\uc2a4<>glht6ch1cornilleau pro<>\uc790\uc5f0\uc2a4\ub7fd\uac8c", 
+    "level": 3, 
+    "pid": 337, 
+    "id": 338, 
+    "name": "Top/table tennis/foot work/body balance"
+  }, 
+  {
+    "query": "table tennis forehand from half table<>\ud0c1\uad6c \ud3ec\ud578\ub4dc \ubc29\ud5a5 \ud48b\uc6cc\ud06c<>ping pong<>.comtakgunuri \ud6c4\uc6d0\uacc4\uc88c\ubc88\ud638", 
+    "level": 3, 
+    "pid": 337, 
+    "id": 339, 
+    "name": "Top/table tennis/foot work/forehand from half table"
+  }, 
+  {
+    "query": "table tennis connecting forehand and backhand<>\ud0c1\uad6c \ud3ec\ud578\ub4dc\uc640 \ubc31\ud578\ub4dc \ud48b\uc6cc\ud06c<>glht6ch1cornilleau pro<>httpcafe .naver .comtakgunuri", 
+    "level": 3, 
+    "pid": 337, 
+    "id": 340, 
+    "name": "Top/table tennis/foot work/connecting forehand and backhand"
+  }, 
+  {
+    "query": "table tennis pivot and cross step<>\ud0c1\uad6c \ud06c\ub85c\uc2a4 \uc2a4\ud15d\uacfc \uc911\uc2ec\ucd95 \ud48b\uc6cc\ud06c<>glht6ch1cornilleau pro<>\ubc30\ub4dc\ubbfc\ud134", 
+    "level": 3, 
+    "pid": 337, 
+    "id": 341, 
+    "name": "Top/table tennis/foot work/pivot and cross step"
+  }, 
+  {
+    "query": "table tennis small steps<>\ud0c1\uad6c \uc794\ubc1c \ud48b\uc6cc\ud06c<>ping pong<>\ub18d\ud611\uc608\uae08\uc8fc \uae40\uc0c1\ud559\ub2f4\ub2f9\uc790", 
+    "level": 3, 
+    "pid": 337, 
+    "id": 342, 
+    "name": "Top/table tennis/foot work/small steps"
+  }, 
+  {
+    "query": "table tennis forehand from the middle<>\ud0c1\uad6c \uc911\uc559\uc5d0\uc11c\ubd80\ud130 \ud3ec\uc5b4\ud578\ub4dc \ud48b\uc6cc\ud06c<>glht6ch1cornilleau pro<>\ubc30\ub4dc\ubbfc\ud134", 
+    "level": 3, 
+    "pid": 337, 
+    "id": 343, 
+    "name": "Top/table tennis/foot work/forehand from the middle"
+  }, 
+  {
+    "query": "table tennis stroke<>\ud0c1\uad6c \uc2a4\ud2b8\ub85c\ud06c<>mohegan sun<>\uc774\uc6a9\ud55c", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 344, 
+    "name": "Top/table tennis/stroke"
+  }, 
+  {
+    "query": "table tennis forehand stroke<>\ud0c1\uad6c \ud3ec\ud578\ub4dc \uc2a4\ud2b8\ub85c\ud06c<>glht6ch1cornilleau pro<>cheersjeff plumb", 
+    "level": 3, 
+    "pid": 344, 
+    "id": 345, 
+    "name": "Top/table tennis/stroke/forehand stroke"
+  }, 
+  {
+    "query": "table tennis backhand stroke<>\ud0c1\uad6c \ubc31\ud578\ub4dc \uc2a4\ud2b8\ub85c\ud06c<>mohegan sun<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 344, 
+    "id": 346, 
+    "name": "Top/table tennis/stroke/backhand stroke"
+  }, 
+  {
+    "query": "table tennis short<>\ud0c1\uad6c \uc1fc\ud2b8<>glht6ch1cornilleau pro<>us throughtwitter httptwitter", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 347, 
+    "name": "Top/table tennis/short"
+  }, 
+  {
+    "query": "table tennis pen holder short<>\ud0c1\uad6c \ud39c\ud640\ub354 \uc1fc\ud2b8<>glht6ch1cornilleau pro<>\u0438", 
+    "level": 3, 
+    "pid": 347, 
+    "id": 348, 
+    "name": "Top/table tennis/short/pen holder short"
+  }, 
+  {
+    "query": "table tennis shake hand short<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \uc1fc\ud2b8<>glht6ch1cornilleau pro<>us throughtwitter httptwitter", 
+    "level": 3, 
+    "pid": 347, 
+    "id": 349, 
+    "name": "Top/table tennis/short/shake hand short"
+  }, 
+  {
+    "query": "table tennis smash<>\ud0c1\uad6c \uc2a4\ub9e4\uc2dc<>racket httpgoo<>\ubc30\ub4dc\ubbfc\ud134\ub300\ud45c\uce74\ud398 \ub298\ud134", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 350, 
+    "name": "Top/table tennis/smash"
+  }, 
+  {
+    "query": "table tennis shake hand forehand smash<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ud3ec\ud578\ub4dc \uc2a4\ub9e4\uc2dc<>glht6ch1cornilleau pro<>\ud558\ud68c\uc804", 
+    "level": 3, 
+    "pid": 350, 
+    "id": 351, 
+    "name": "Top/table tennis/smash/shake hand forehand smash"
+  }, 
+  {
+    "query": "table tennis shake hand backhand smash<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ubc31\ud578\ub4dc \uc2a4\ub9e4\uc2dc<>glht6ch1cornilleau pro<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 350, 
+    "id": 352, 
+    "name": "Top/table tennis/smash/shake hand backhand smash"
+  }, 
+  {
+    "query": "table tennis pen holder forehand smash<>\ud0c1\uad6c \ud39c\ud640\ub354 \ud3ec\ud578\ub4dc \uc2a4\ub9e4\uc2dc<>glht6ch1cornilleau pro<>4\uc6d4", 
+    "level": 3, 
+    "pid": 350, 
+    "id": 353, 
+    "name": "Top/table tennis/smash/pen holder forehand smash"
+  }, 
+  {
+    "query": "table tennis pen holder backhand smash<>\ud0c1\uad6c \ud32c\ud640\ub354 \ubc31\ud578\ub4dc \uc2a4\ub9e4\uc2dc<>glht6ch1cornilleau pro<>\uc774\uc6a9\ud55c", 
+    "level": 3, 
+    "pid": 350, 
+    "id": 354, 
+    "name": "Top/table tennis/smash/pen holder backhand smash"
+  }, 
+  {
+    "query": "table tennis drive<>\ud0c1\uad6c \ub4dc\ub77c\uc774\ube0c<>ping pong<>1\ubd80", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 355, 
+    "name": "Top/table tennis/drive"
+  }, 
+  {
+    "query": "table tennis pen holder forehand drive<>\ud0c1\uad6c \ud39c\ud640\ub354 \ud3ec\ud578\ub4dc \ub4dc\ub77c\uc774\ube0c<>glht6ch1cornilleau pro<>\uc138\uc774\ud06c", 
+    "level": 3, 
+    "pid": 355, 
+    "id": 356, 
+    "name": "Top/table tennis/drive/pen holder forehand drive"
+  }, 
+  {
+    "query": "table tennis shake hand forehand drive<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ud3ec\ud578\ub4dc \ub4dc\ub77c\uc774\ube0c<>glht6ch1cornilleau pro<>ishikawa kasumi\uc758", 
+    "level": 3, 
+    "pid": 355, 
+    "id": 357, 
+    "name": "Top/table tennis/drive/shake hand forehand drive"
+  }, 
+  {
+    "query": "table tennis loop drive<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ubc31\ud578\ub4dc \ub4dc\ub77c\uc774\ube0c<>ping pong<>glqe0kckasics gel", 
+    "level": 3, 
+    "pid": 355, 
+    "id": 358, 
+    "name": "Top/table tennis/drive/shake hand backhand drive"
+  }, 
+  {
+    "query": "table tennis loop drive<>\ud0c1\uad6c \ub8e8\ud504 \ub4dc\ub77c\uc774\ube0c<>ping pong<>\uc2a4\uba54\uc2f1", 
+    "level": 3, 
+    "pid": 355, 
+    "id": 359, 
+    "name": "Top/table tennis/drive/loop drive"
+  }, 
+  {
+    "query": "table tennis cut<>\ud0c1\uad6c \ucee4\ud2b8<>glht6ch1cornilleau pro<>\ud574\uc124", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 360, 
+    "name": "Top/table tennis/cut"
+  }, 
+  {
+    "query": "table tennis pen holder forehand cut<>\ud0c1\uad6c \ud39c\ud640\ub354 \ud3ec\ud578\ub4dc \ucee4\ud2b8<>glht6ch1cornilleau pro<>\uc138\uc774\ud06c", 
+    "level": 3, 
+    "pid": 360, 
+    "id": 361, 
+    "name": "Top/table tennis/cut/pen holder forehand cut"
+  }, 
+  {
+    "query": "table tennis pen holder backhand cut<>\ud0c1\uad6c \ud39c\ud640\ub354 \ubc31\ud578\ub4dc \ucee4\ud2b8<>glht6ch1cornilleau pro<>\uc218\uc694\ub9ac\uadf8", 
+    "level": 3, 
+    "pid": 360, 
+    "id": 362, 
+    "name": "Top/table tennis/cut/pen holder backhand cut"
+  }, 
+  {
+    "query": "table tennis shake hand forehand cut<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ud3ec\ud578\ub4dc \ucee4\ud2b8<>glht6ch1cornilleau pro<>\uc788\ub2e4", 
+    "level": 3, 
+    "pid": 360, 
+    "id": 363, 
+    "name": "Top/table tennis/cut/shake hand forehand cut"
+  }, 
+  {
+    "query": "table tennis shake hand backhand cut<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ubc31\ud578\ub4dc \ucee4\ud2b8<>glht6ch1cornilleau pro<>credit stiga", 
+    "level": 3, 
+    "pid": 360, 
+    "id": 364, 
+    "name": "Top/table tennis/cut/shake hand backhand cut"
+  }, 
+  {
+    "query": "table tennis block<>\ud0c1\uadf8 \ube14\ub85d<>ping pong<>\ud551\ud401\ucf54\ub9ac\uc544 httpwww", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 365, 
+    "name": "Top/table tennis/block"
+  }, 
+  {
+    "query": "table tennis forehand block<>\ud0c1\uad6c \ud3ec\ud578\ub4dc \ube14\ub85d<>glht6ch1cornilleau pro<>\ud551\ud401\ucf54\ub9ac\uc544 httpwww", 
+    "level": 3, 
+    "pid": 365, 
+    "id": 366, 
+    "name": "Top/table tennis/block/forehand block"
+  }, 
+  {
+    "query": "table tennis backhand block<>\ud0c1\uad6c \ubc31\ud578\ub4dc \ube14\ub85d<>\u0432\u044b\u0433\u043e\u0434\u043d\u043e \u0438 \u0443\u0434\u043e\u0431\u043d\u043e<>at wsa", 
+    "level": 3, 
+    "pid": 365, 
+    "id": 367, 
+    "name": "Top/table tennis/block/backhand block"
+  }, 
+  {
+    "query": "table tennis flick<>\ud0c1\uad6c \ud50c\ub9ad<>glht6ch1cornilleau pro<>\ub18d\ud611\uc608\uae08\uc8fc \uae40\uc0c1\ud559\ub2f4\ub2f9\uc790", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 368, 
+    "name": "Top/table tennis/flick"
+  }, 
+  {
+    "query": "table tennis forehand flick<>\ud0c1\uad6c \ud3ec\ud578\ub4dc \ud50c\ub9ad<>glht6ch1cornilleau pro<>5\ubd80", 
+    "level": 3, 
+    "pid": 368, 
+    "id": 369, 
+    "name": "Top/table tennis/flick/forehand flick"
+  }, 
+  {
+    "query": "table tennis backhand flick<>\ud0c1\uad6c \ubc31\ud578\ub4dc \ud50c\ub9ad<>glht6ch1cornilleau pro<>spirit httpgoo", 
+    "level": 3, 
+    "pid": 368, 
+    "id": 370, 
+    "name": "Top/table tennis/flick/backhand flick"
+  }, 
+  {
+    "query": "table tennis lobbing<>\ud0c1\uad6c \ub85c\ube59<>racket httpgoo<>", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 371, 
+    "name": "Top/table tennis/lobbing?"
+  }, 
+  {
+    "query": "table tennis drop<>\ud0c1\uad6c \ub4dc\ub86d<>ping pong<>\uc62c\ub9bc\ud53d\uc5d0\uc11c", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 372, 
+    "name": "Top/table tennis/drop"
+  }, 
+  {
+    "query": "table tennis forehand drop<>\ud0c1\uad6c \ud3ec\ud578\ub4dc \ub4dc\ub86d<>ping pong<>\uc788\ub2e4", 
+    "level": 3, 
+    "pid": 372, 
+    "id": 373, 
+    "name": "Top/table tennis/drop/forehand drop"
+  }, 
+  {
+    "query": "table tennis backhand drop<>\ud0c1\uad6c \ubc31\ud578\ub4dc \ub4dc\ub86d<>ping pong<>\uc5f0\uc18d \uacf5\uaca9", 
+    "level": 3, 
+    "pid": 372, 
+    "id": 374, 
+    "name": "Top/table tennis/drop/backhand drop"
+  }, 
+  {
+    "query": "table tennis push short<>\ud0c1\uad6c \ud478\uc2dc \uc1fc\ud2b8<>glht6ch1cornilleau pro<>us throughtwitter httptwitter", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 375, 
+    "name": "Top/table tennis/push short"
+  }, 
+  {
+    "query": "table tennis pen holder push short<>\ud0c1\uad6c \ud39c\ud640\ub354 \ud478\uc2dc<>glht6ch1cornilleau pro<>\uc250\uc774\ud06c", 
+    "level": 3, 
+    "pid": 375, 
+    "id": 376, 
+    "name": "Top/table tennis/push short/pen holder push short"
+  }, 
+  {
+    "query": "table tennis shake push short<>\ud0c1\uad6c \uc170\uc774\ud06c\ud578\ub4dc \ud478\uc2dc<>glht6ch1cornilleau pro<>\u314e", 
+    "level": 3, 
+    "pid": 375, 
+    "id": 377, 
+    "name": "Top/table tennis/push short/shake push short"
+  }, 
+  {
+    "query": "table tennis sidespin short<>\ud0c1\uad6c \uc0ac\uc774\ub4dc \uc2a4\ud540 \uc1fc\ud2b8<>glht6ch1cornilleau pro<>us throughtwitter httptwitter", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 378, 
+    "name": "Top/table tennis/sidespin short"
+  }, 
+  {
+    "query": "table tennis half volley<>\ud0c1\uad6c \ud558\ud504 \ubc1c\ub9ac<>glht6ch1cornilleau pro<>5\ubd80", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 379, 
+    "name": "Top/table tennis/half volley"
+  }, 
+  {
+    "query": "table tennis chinapen reverse<>\ud0c1\uad6c \uc774\uba74\ud0c0\ubc95<>racket httpgoo<>\u0443 \u043d\u0430\u0441", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 380, 
+    "name": "Top/table tennis/chinapen reverse"
+  }, 
+  {
+    "query": "table tennis service & receive<>\ud0c1\uad6c \uc11c\ube44\uc2a4\uc640 \ub9ac\uc2dc\ube0c<>glht6ch1cornilleau pro<>\uc0c1\ub300\ubc29\uc758", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 381, 
+    "name": "Top/table tennis/service & receive"
+  }, 
+  {
+    "query": "table tennis service rule<>\ud0c1\uad6c \uc11c\ube44\uc2a4\uaddc\uc815<>glht6ch1cornilleau pro<>", 
+    "level": 3, 
+    "pid": 381, 
+    "id": 382, 
+    "name": "Top/table tennis/service & receive/service rule"
+  }, 
+  {
+    "query": "table tennis service<>\ud0c1\uad6c \uc11c\ube44\uc2a4<>glht6ch1cornilleau pro<>\ubaa8\uc2b5\uc785\ub2c8\ub2e4", 
+    "level": 3, 
+    "pid": 381, 
+    "id": 383, 
+    "name": "Top/table tennis/service & receive/service"
+  }, 
+  {
+    "query": "table tennis underspin serve<>\ud0c1\uad6c \uc5b8\ub354\uc2a4\ud540 \uc11c\ube44\uc2a4<>ping pong<>\ubaa8\uc2b5\uc785\ub2c8\ub2e4", 
+    "level": 4, 
+    "pid": 383, 
+    "id": 384, 
+    "name": "Top/table tennis/service & receive/service/underspin serve"
+  }, 
+  {
+    "query": "table tennis nuckle serve<>\ud0c1\uad6c \ub108\ud074 \uc11c\ube44\uc2a4<>ping pong<>\ubaa8\uc2b5\uc785\ub2c8\ub2e4", 
+    "level": 4, 
+    "pid": 383, 
+    "id": 385, 
+    "name": "Top/table tennis/service & receive/service/nuckle serve"
+  }, 
+  {
+    "query": "table tennis sidespin serve<>\ud0c1\uad6c \uc0ac\uc774\ub4dc\uc2a4\ud540 \uc11c\ube44\uc2a4<>glht6ch1cornilleau pro<>\ubaa8\uc2b5\uc785\ub2c8\ub2e4", 
+    "level": 4, 
+    "pid": 383, 
+    "id": 386, 
+    "name": "Top/table tennis/service & receive/service/sidespin serve"
+  }, 
+  {
+    "query": "table tennis long serve<>\ud0c1\uad6c \ub871 \uc11c\ube44\uc2a4<>glht6ch1cornilleau pro<>ishikawa kasumi\uc758", 
+    "level": 4, 
+    "pid": 383, 
+    "id": 387, 
+    "name": "Top/table tennis/service & receive/service/long serve"
+  }, 
+  {
+    "query": "table tennis yg serve<>\ud0c1\uad6c yg \uc11c\ube44\uc2a4<>shop\u2193httprubber<>\ubaa8\uc2b5\uc785\ub2c8\ub2e4", 
+    "level": 4, 
+    "pid": 383, 
+    "id": 388, 
+    "name": "Top/table tennis/service & receive/service/yg serve"
+  }, 
+  {
+    "query": "table tennis backhand serve<>\ud0c1\uad6c \ubc31\ud578\ub4dc \uc11c\ube44\uc2a4<>ping pong<>\uc0c1\ub300\ubc29\uc744", 
+    "level": 4, 
+    "pid": 383, 
+    "id": 389, 
+    "name": "Top/table tennis/service & receive/service/backhand serve"
+  }, 
+  {
+    "query": "table tennis receive<>\ud0c1\uad6c \ub9ac\uc2dc\ube0c<>glht6ch1cornilleau pro<>\uc0c1\ub300\ubc29\uc758", 
+    "level": 3, 
+    "pid": 381, 
+    "id": 390, 
+    "name": "Top/table tennis/service & receive/receive"
+  }, 
+  {
+    "query": "table tennis cut receive<>\ud0c1\uad6c \ucee4\ud2b8 \ub9ac\uc2dc\ube0c<>glht6ch1cornilleau pro<>\uc0c1\ub300\ubc29\uc758", 
+    "level": 4, 
+    "pid": 390, 
+    "id": 391, 
+    "name": "Top/table tennis/service & receive/receive/cut receive"
+  }, 
+  {
+    "query": "table tennis receive stop<>\ud0c1\uad6c \uc2a4\ud1b1\ucee4\ud2b8 \ub9ac\uc2dc\ube0c<>glht6ch1cornilleau pro<>\uc0c1\ub300\ubc29\uc758", 
+    "level": 4, 
+    "pid": 390, 
+    "id": 392, 
+    "name": "Top/table tennis/service & receive/receive/stop"
+  }, 
+  {
+    "query": "table tennis receive flick<>\ud0c1\uad6c \ud50c\ub9ad \ub9ac\uc2dc\ube0c<>glht6ch1cornilleau pro<>\ub18d\ud611\uc608\uae08\uc8fc \uae40\uc0c1\ud559\ub2f4\ub2f9\uc790", 
+    "level": 4, 
+    "pid": 390, 
+    "id": 393, 
+    "name": "Top/table tennis/service & receive/receive/flick"
+  }, 
+  {
+    "query": "table tennis strategy<>\ud0c1\uad6c \uc2e4\uc804 \uc804\ub7b5<>ping pong<>\uc124\uba85", 
+    "level": 2, 
+    "pid": 328, 
+    "id": 394, 
+    "name": "Top/table tennis/strategy"
+  }, 
+  {
+    "query": "table tennis third ball attack<>\ud0c1\uad6c 3\uad6c \uacf5\uaca9<>glht6ch1cornilleau pro<>\uc911\uad6d", 
+    "level": 3, 
+    "pid": 394, 
+    "id": 395, 
+    "name": "Top/table tennis/strategy/third ball attack"
+  }, 
+  {
+    "query": "table tennis rally<>\ud0c1\uad6c \ub7a0\ub9ac<>glht6ch1cornilleau pro<>ytn yes top news", 
+    "level": 3, 
+    "pid": 394, 
+    "id": 396, 
+    "name": "Top/table tennis/strategy/rally"
+  }, 
+  {
+    "query": "table tennis change between forehand and backhand<>\ud0c1\uad6c \ud3ec\ud578\ub4dc\uc640 \ubc31\ud578\ub4dc \uc804\ud658<>\u043c\u044b \u0432\u0441\u0435\u0433\u0434\u0430<>ishikawa kasumi\uc758", 
+    "level": 3, 
+    "pid": 394, 
+    "id": 397, 
+    "name": "Top/table tennis/strategy/change between forehand and backhand"
+  }, 
+  {
+    "query": "table tennis doubles<>\ud0c1\uad6c \ubcf5\uc2dd \ud6c8\ub828<>glht6ch1cornilleau pro<>\uc608\uc120", 
+    "level": 3, 
+    "pid": 394, 
+    "id": 398, 
+    "name": "Top/table tennis/strategy/doubles"
+  }
+]
