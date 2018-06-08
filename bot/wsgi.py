@@ -13,7 +13,7 @@ from django.core.wsgi import get_wsgi_application
 
 
 sys.path.append('/home/ubuntu/Django')
-#sys.path.append('/home/ubuntu/Django/bot')
+sys.path.append('/home/ubuntu/Django/bot')
 sys.path.append('/home/ubuntu/Django/bot_venv/lib/python3.5/site-packages')
  
  
